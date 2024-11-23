@@ -1,0 +1,112 @@
+{% extends 'base.html' %}
+{% block content %}
+<h1 class="text-center mb-4 text-primary">Crear Nueva Moto</h1>
+
+<div class="container bg-light p-4 rounded shadow-sm">
+    <form method="POST" action="{{ url_for('add_moto') }}" enctype="multipart/form-data">
+        <!-- Sección: Información básica -->
+        <div class="row mb-4">
+            <div class="col-md-6">
+                <h4 class="text-secondary">Información Básica</h4>
+                <div class="form-floating mb-3">
+                    <input type="text" class="form-control" id="make" name="make" placeholder="Marca" required>
+                    <label for="make">Marca</label>
+                </div>
+                <div class="form-floating mb-3">
+                    <input type="text" class="form-control" id="model" name="model" placeholder="Modelo" required>
+                    <label for="model">Modelo</label>
+                </div>
+                <div class="form-floating mb-3">
+                    <input type="number" class="form-control" id="year" name="year" placeholder="Año" min="1900" max="2100" required>
+                    <label for="year">Año</label>
+                </div>
+                <div class="form-floating mb-3">
+                    <input type="text" class="form-control" id="color" name="color" placeholder="Color" required>
+                    <label for="color">Color</label>
+                </div>
+                <div class="form-floating mb-3">
+                    <input type="number" class="form-control" id="price" name="price" placeholder="Precio" step="0.01" required>
+                    <label for="price">Precio</label>
+                </div>
+            </div>
+
+            <!-- Sección: Especificaciones técnicas -->
+            <div class="col-md-6">
+                <h4 class="text-secondary">Especificaciones Técnicas</h4>
+                <div class="form-floating mb-3">
+                    <input type="text" class="form-control" id="engineType" name="engineType" placeholder="Tipo de Motor">
+                    <label for="engineType">Tipo de Motor</label>
+                </div>
+                <div class="form-floating mb-3">
+                    <input type="text" class="form-control" id="displacement" name="displacement" placeholder="Desplazamiento">
+                    <label for="displacement">Desplazamiento</label>
+                </div>
+                <div class="mb-3">
+                    <label for="transmission" class="form-label">Transmisión</label>
+                    <select class="form-select" id="transmission" name="transmission">
+                        <option value="manual">Manual</option>
+                        <option value="automatic">Automática</option>
+                    </select>
+                </div>
+                <div class="mb-3">
+                    <label for="status" class="form-label">Estado</label>
+                    <select class="form-select" id="status" name="status">
+                        <option value="available">Disponible</option>
+                        <option value="sold">Vendida</option>
+                    </select>
+                </div>
+                <div class="form-check">
+                    <input type="checkbox" class="form-check-input" id="isActive" name="isActive">
+                    <label for="isActive" class="form-check-label">Activo</label>
+                </div>
+            </div>
+        </div>
+
+        <!-- Sección: Ubicación y registro -->
+        <div class="row mb-4">
+            <div class="col-md-12">
+                <h4 class="text-secondary">Ubicación y Registro</h4>
+                <div class="form-floating mb-3">
+                    <textarea class="form-control" id="address" name="address" placeholder="Dirección" style="height: 100px;"></textarea>
+                    <label for="address">Dirección</label>
+                </div>
+                <div class="row g-3">
+                    <div class="col-md-6">
+                        <div class="form-floating">
+                            <input type="number" class="form-control" id="latitude" name="latitude" placeholder="Latitud" step="0.000001">
+                            <label for="latitude">Latitud</label>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="form-floating">
+                            <input type="number" class="form-control" id="longitude" name="longitude" placeholder="Longitud" step="0.000001">
+                            <label for="longitude">Longitud</label>
+                        </div>
+                    </div>
+                </div>
+                <div class="form-floating mt-3">
+                    <input type="date" class="form-control" id="registrationDate" name="registrationDate" placeholder="Fecha de Registro">
+                    <label for="registrationDate">Fecha de Registro</label>
+                </div>
+            </div>
+        </div>
+
+        <!-- Sección: Imagen -->
+        <div class="row mb-4">
+            <div class="col-md-12">
+                <h4 class="text-secondary">Imagen</h4>
+                <div id="drop-zone" class="border border-primary rounded p-4 text-center" style="height: 200px; background-color: #f9f9f9;">
+                    <p class="text-muted">Arrastra y suelta la imagen aquí o haz clic para seleccionarla</p>
+                    <input type="file" id="image-input" name="picture" accept="image/*" class="d-none">
+                </div>
+            </div>
+        </div>
+
+        <!-- Botón de enviar -->
+        <div class="text-center mt-4">
+            <button type="submit" class="btn btn-primary btn-lg">Guardar Moto</button>
+            <a href="{{ url_for('index') }}" class="btn btn-outline-secondary btn-lg">Cancelar</a>
+        </div>
+    </form>
+</div>
+{% endblock %}

@@ -1,0 +1,74 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h1 class="text-center mb-4">Editar Moto</h1>
+
+<div class="container">
+    <form method="POST" action="{{ url_for('edit_moto', object_id=moto._id) }}">
+        <div class="row justify-content-center">
+            <!-- Columna del formulario -->
+            <div class="col-md-6">
+                <!-- Marca -->
+                <div class="mb-3">
+                    <label for="make" class="form-label">Marca</label>
+                    <input type="text" class="form-control" id="make" name="make" value="{{ moto.make }}" required>
+                </div>
+
+                <!-- Modelo -->
+                <div class="mb-3">
+                    <label for="model" class="form-label">Modelo</label>
+                    <input type="text" class="form-control" id="model" name="model" value="{{ moto.model }}" required>
+                </div>
+
+                <!-- Año -->
+                <div class="mb-3">
+                    <label for="year" class="form-label">Año</label>
+                    <input type="number" class="form-control" id="year" name="year" value="{{ moto.year }}" required>
+                </div>
+
+                <!-- Precio -->
+                <div class="mb-3">
+                    <label for="price" class="form-label">Precio</label>
+                    <input type="text" class="form-control" id="price" name="price" value="{{ moto.price }}" required>
+                </div>
+
+                <!-- Color -->
+                <div class="mb-3">
+                    <label for="color" class="form-label">Color</label>
+                    <input type="text" class="form-control" id="color" name="color" value="{{ moto.color }}" required>
+                </div>
+
+                <!-- Tipo de motor -->
+                <div class="mb-3">
+                    <label for="engineType" class="form-label">Tipo de motor</label>
+                    <input type="text" class="form-control" id="engineType" name="engineType" value="{{ moto.engineType }}" required>
+                </div>
+
+                <!-- Transmisión -->
+                <div class="mb-3">
+                    <label for="transmission" class="form-label">Transmisión</label>
+                    <select class="form-select" id="transmission" name="transmission" required>
+                        <option value="manual" {% if moto.transmission == 'manual' %}selected{% endif %}>Manual</option>
+                        <option value="automatic" {% if moto.transmission == 'automatic' %}selected{% endif %}>Automática</option>
+                    </select>
+                </div>
+
+                <!-- Estado -->
+                <div class="mb-3">
+                    <label for="status" class="form-label">Estado</label>
+                    <select class="form-select" id="status" name="status" required>
+                        <option value="available" {% if moto.status == 'available' %}selected{% endif %}>Disponible</option>
+                        <option value="sold" {% if moto.status == 'sold' %}selected{% endif %}>Vendido</option>
+                    </select>
+                </div>
+
+                <!-- Botones -->
+                <div class="d-flex justify-content-between">
+                    <a href="{{ url_for('index') }}" class="btn btn-secondary">Cancelar</a>
+                    <button type="submit" class="btn btn-primary">Guardar cambios</button>
+                </div>
+            </div>
+        </div>
+    </form>
+</div>
+{% endblock %}

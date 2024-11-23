@@ -1,0 +1,4185 @@
+[
+  {
+    "guid": "1f8a0be9-b921-4215-88fa-3cce7b9e3a55",
+    "isActive": true,
+    "price": "$10,812.21",
+    "picture": "http://placehold.it/64x64",
+    "make": "Kawasaki",
+    "model": "consectetur",
+    "year": 2018,
+    "mileage": 6398,
+    "color": "red",
+    "engineType": "inline-four",
+    "displacement": "1195 cc",
+    "transmission": "automatic",
+    "status": "available",
+    "dealership": "XURBAN",
+    "address": "174 Montgomery Place, Hendersonville, Pennsylvania, 749",
+    "registrationDate": "2011-02-06T06:51:48 +05:00",
+    "latitude": 73.143345,
+    "longitude": -148.042192,
+    "tags": [
+      "amet",
+      "ut",
+      "veniam",
+      "elit",
+      "proident"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Terrell Byrd",
+        "purchaseDate": "2020-11-06",
+        "contact": "+1 (954) 529-3691"
+      }
+    ],
+    "greeting": "Hello, interested in the Kawasaki consectetur? We have great offers waiting for you!",
+    "popularAccessory": "jacket"
+  },
+  {
+    "guid": "e5861430-5008-4ba0-899e-b563ff88bab6",
+    "isActive": false,
+    "price": "$9,735.94",
+    "picture": "http://placehold.it/64x64",
+    "make": "BMW",
+    "model": "ex",
+    "year": 2016,
+    "mileage": 31220,
+    "color": "gray",
+    "engineType": "inline-four",
+    "displacement": "441 cc",
+    "transmission": "automatic",
+    "status": "sold",
+    "dealership": "UPLINX",
+    "address": "291 Buffalo Avenue, Belleview, Connecticut, 9788",
+    "registrationDate": "2012-07-06T12:38:00 +05:00",
+    "latitude": -65.156374,
+    "longitude": -56.530866,
+    "tags": [
+      "enim",
+      "fugiat",
+      "consectetur",
+      "irure",
+      "ad"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Minerva Andrews",
+        "purchaseDate": "2017-04-06",
+        "contact": "+1 (856) 525-2486"
+      },
+      {
+        "id": 1,
+        "name": "Leona Thornton",
+        "purchaseDate": "2016-09-28",
+        "contact": "+1 (926) 600-2097"
+      },
+      {
+        "id": 2,
+        "name": "Mae Cantrell",
+        "purchaseDate": "2016-03-07",
+        "contact": "+1 (965) 506-2629"
+      }
+    ],
+    "greeting": "Hello, interested in the BMW ex? We have great offers waiting for you!",
+    "popularAccessory": "helmet"
+  },
+  {
+    "guid": "7865ceb7-f481-4610-b77e-1626067958d9",
+    "isActive": false,
+    "price": "$3,496.92",
+    "picture": "http://placehold.it/64x64",
+    "make": "BMW",
+    "model": "ea",
+    "year": 2019,
+    "mileage": 48206,
+    "color": "red",
+    "engineType": "parallel-twin",
+    "displacement": "723 cc",
+    "transmission": "automatic",
+    "status": "sold",
+    "dealership": "SULTRAXIN",
+    "address": "557 Dikeman Street, Salunga, California, 7018",
+    "registrationDate": "2011-01-12T02:23:44 +05:00",
+    "latitude": 63.354281,
+    "longitude": 20.169107,
+    "tags": [
+      "magna",
+      "laboris",
+      "cupidatat"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Dickerson Park",
+        "purchaseDate": "2020-09-20",
+        "contact": "+1 (864) 507-3444"
+      }
+    ],
+    "greeting": "Hello, interested in the BMW ea? We have great offers waiting for you!",
+    "popularAccessory": "cover"
+  },
+  {
+    "guid": "d30632ed-fb03-4911-b638-b5ebc6821ebc",
+    "isActive": true,
+    "price": "$9,608.64",
+    "picture": "http://placehold.it/64x64",
+    "make": "Harley-Davidson",
+    "model": "exercitation",
+    "year": 2010,
+    "mileage": 21744,
+    "color": "yellow",
+    "engineType": "boxer",
+    "displacement": "500 cc",
+    "transmission": "manual",
+    "status": "sold",
+    "dealership": "ROOFORIA",
+    "address": "776 Henry Street, Delco, North Carolina, 2658",
+    "registrationDate": "2015-04-24T09:00:28 +05:00",
+    "latitude": 50.901092,
+    "longitude": 112.216259,
+    "tags": [
+      "sunt",
+      "nulla",
+      "dolor",
+      "fugiat"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "April Alvarado",
+        "purchaseDate": "2021-07-02",
+        "contact": "+1 (846) 588-3284"
+      },
+      {
+        "id": 1,
+        "name": "Melba Fitzpatrick",
+        "purchaseDate": "2019-10-07",
+        "contact": "+1 (927) 527-3025"
+      }
+    ],
+    "greeting": "Hello, interested in the Harley-Davidson exercitation? We have great offers waiting for you!",
+    "popularAccessory": "helmet"
+  },
+  {
+    "guid": "c2022855-993c-489d-9a0a-3df9310421b4",
+    "isActive": true,
+    "price": "$8,076.59",
+    "picture": "http://placehold.it/64x64",
+    "make": "Honda",
+    "model": "ad",
+    "year": 2019,
+    "mileage": 45967,
+    "color": "blue",
+    "engineType": "inline-four",
+    "displacement": "877 cc",
+    "transmission": "automatic",
+    "status": "reserved",
+    "dealership": "ZILLACOM",
+    "address": "782 Ridge Boulevard, Gordon, South Carolina, 3618",
+    "registrationDate": "2023-04-28T09:30:15 +05:00",
+    "latitude": 17.342673,
+    "longitude": -131.473674,
+    "tags": [
+      "Lorem",
+      "veniam",
+      "exercitation"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Small Fletcher",
+        "purchaseDate": "2019-05-11",
+        "contact": "+1 (937) 552-3888"
+      },
+      {
+        "id": 1,
+        "name": "Lindsey Mcguire",
+        "purchaseDate": "2016-01-12",
+        "contact": "+1 (806) 551-3880"
+      }
+    ],
+    "greeting": "Hello, interested in the Honda ad? We have great offers waiting for you!",
+    "popularAccessory": "jacket"
+  },
+  {
+    "guid": "40dbdcc3-ec61-4028-8c8b-a8a27326c4d9",
+    "isActive": true,
+    "price": "$8,977.45",
+    "picture": "http://placehold.it/64x64",
+    "make": "Ducati",
+    "model": "esse",
+    "year": 2019,
+    "mileage": 1587,
+    "color": "yellow",
+    "engineType": "single-cylinder",
+    "displacement": "392 cc",
+    "transmission": "manual",
+    "status": "available",
+    "dealership": "GEOFORM",
+    "address": "896 George Street, Como, Florida, 1629",
+    "registrationDate": "2015-10-04T11:06:36 +05:00",
+    "latitude": -89.708901,
+    "longitude": -26.409457,
+    "tags": [
+      "aliqua",
+      "mollit",
+      "dolore"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Ingram Poole",
+        "purchaseDate": "2016-05-14",
+        "contact": "+1 (892) 507-2948"
+      },
+      {
+        "id": 1,
+        "name": "Robyn Terrell",
+        "purchaseDate": "2017-11-26",
+        "contact": "+1 (957) 453-2085"
+      }
+    ],
+    "greeting": "Hello, interested in the Ducati esse? We have great offers waiting for you!",
+    "popularAccessory": "cover"
+  },
+  {
+    "guid": "03e7ee6a-7e1f-453f-8f99-b2a835bf3cf8",
+    "isActive": true,
+    "price": "$5,535.58",
+    "picture": "http://placehold.it/64x64",
+    "make": "BMW",
+    "model": "officia",
+    "year": 2015,
+    "mileage": 39086,
+    "color": "yellow",
+    "engineType": "boxer",
+    "displacement": "754 cc",
+    "transmission": "manual",
+    "status": "available",
+    "dealership": "CENTICE",
+    "address": "760 Seabring Street, Harleigh, Federated States Of Micronesia, 364",
+    "registrationDate": "2012-12-06T04:00:55 +05:00",
+    "latitude": -54.476481,
+    "longitude": 122.120841,
+    "tags": [
+      "eiusmod",
+      "consectetur",
+      "sint",
+      "nisi"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Lynne Burnett",
+        "purchaseDate": "2015-08-01",
+        "contact": "+1 (919) 525-2220"
+      },
+      {
+        "id": 1,
+        "name": "Rhodes Baird",
+        "purchaseDate": "2019-10-30",
+        "contact": "+1 (923) 402-3428"
+      },
+      {
+        "id": 2,
+        "name": "Marlene Paul",
+        "purchaseDate": "2021-05-29",
+        "contact": "+1 (943) 428-2149"
+      }
+    ],
+    "greeting": "Hello, interested in the BMW officia? We have great offers waiting for you!",
+    "popularAccessory": "gloves"
+  },
+  {
+    "guid": "a66fec2e-c7be-4408-af8f-4f8f70cf9c89",
+    "isActive": false,
+    "price": "$10,284.99",
+    "picture": "http://placehold.it/64x64",
+    "make": "Ducati",
+    "model": "cillum",
+    "year": 2018,
+    "mileage": 21366,
+    "color": "blue",
+    "engineType": "V-twin",
+    "displacement": "464 cc",
+    "transmission": "manual",
+    "status": "sold",
+    "dealership": "VALPREAL",
+    "address": "315 Jerome Street, Orovada, Virginia, 3793",
+    "registrationDate": "2024-10-07T08:52:32 +05:00",
+    "latitude": 15.161674,
+    "longitude": -4.443023,
+    "tags": [
+      "aute",
+      "Lorem",
+      "voluptate",
+      "aliqua"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Yesenia Randall",
+        "purchaseDate": "2021-06-04",
+        "contact": "+1 (839) 456-3584"
+      },
+      {
+        "id": 1,
+        "name": "Lakeisha Hammond",
+        "purchaseDate": "2016-05-20",
+        "contact": "+1 (991) 432-2447"
+      },
+      {
+        "id": 2,
+        "name": "Cheryl Conner",
+        "purchaseDate": "2018-03-27",
+        "contact": "+1 (965) 520-3744"
+      }
+    ],
+    "greeting": "Hello, interested in the Ducati cillum? We have great offers waiting for you!",
+    "popularAccessory": "cover"
+  },
+  {
+    "guid": "42dcd678-4096-4fd6-996e-e80c828c1db4",
+    "isActive": true,
+    "price": "$3,266.96",
+    "picture": "http://placehold.it/64x64",
+    "make": "Ducati",
+    "model": "esse",
+    "year": 2015,
+    "mileage": 49753,
+    "color": "white",
+    "engineType": "V-twin",
+    "displacement": "385 cc",
+    "transmission": "automatic",
+    "status": "available",
+    "dealership": "ANACHO",
+    "address": "446 Noll Street, Datil, South Dakota, 1795",
+    "registrationDate": "2010-09-07T12:37:49 +05:00",
+    "latitude": 70.068972,
+    "longitude": 136.702754,
+    "tags": [
+      "esse",
+      "ut",
+      "nulla"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Rivera Bonner",
+        "purchaseDate": "2020-08-31",
+        "contact": "+1 (907) 442-3454"
+      }
+    ],
+    "greeting": "Hello, interested in the Ducati esse? We have great offers waiting for you!",
+    "popularAccessory": "jacket"
+  },
+  {
+    "guid": "d420d2d9-6a86-4d5b-977d-aae925686c0d",
+    "isActive": false,
+    "price": "$13,307.36",
+    "picture": "http://placehold.it/64x64",
+    "make": "BMW",
+    "model": "enim",
+    "year": 2023,
+    "mileage": 39441,
+    "color": "black",
+    "engineType": "V-twin",
+    "displacement": "1166 cc",
+    "transmission": "manual",
+    "status": "reserved",
+    "dealership": "ISBOL",
+    "address": "325 Channel Avenue, Walton, Massachusetts, 2025",
+    "registrationDate": "2022-08-28T12:54:30 +05:00",
+    "latitude": -72.59547,
+    "longitude": -74.328152,
+    "tags": [
+      "aute",
+      "ut",
+      "aliquip",
+      "cupidatat",
+      "dolor"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Mayer Rush",
+        "purchaseDate": "2022-01-30",
+        "contact": "+1 (840) 578-2323"
+      },
+      {
+        "id": 1,
+        "name": "Camacho Mcneil",
+        "purchaseDate": "2021-05-31",
+        "contact": "+1 (983) 577-3181"
+      },
+      {
+        "id": 2,
+        "name": "Moreno Bray",
+        "purchaseDate": "2021-10-07",
+        "contact": "+1 (917) 475-2148"
+      }
+    ],
+    "greeting": "Hello, interested in the BMW enim? We have great offers waiting for you!",
+    "popularAccessory": "helmet"
+  },
+  {
+    "guid": "fcd92339-8c57-4603-ab5b-744024964619",
+    "isActive": true,
+    "price": "$8,620.17",
+    "picture": "http://placehold.it/64x64",
+    "make": "Ducati",
+    "model": "non",
+    "year": 2019,
+    "mileage": 1708,
+    "color": "white",
+    "engineType": "single-cylinder",
+    "displacement": "476 cc",
+    "transmission": "manual",
+    "status": "reserved",
+    "dealership": "CORPULSE",
+    "address": "320 Schenck Avenue, Blanco, Missouri, 9701",
+    "registrationDate": "2017-07-08T11:02:54 +05:00",
+    "latitude": -60.578329,
+    "longitude": 62.395864,
+    "tags": [
+      "dolore",
+      "cupidatat",
+      "voluptate",
+      "cillum",
+      "irure"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Stevenson Blevins",
+        "purchaseDate": "2022-10-23",
+        "contact": "+1 (899) 543-2458"
+      },
+      {
+        "id": 1,
+        "name": "Kathrine Houston",
+        "purchaseDate": "2017-08-15",
+        "contact": "+1 (921) 435-3088"
+      },
+      {
+        "id": 2,
+        "name": "Mendoza Burton",
+        "purchaseDate": "2017-03-23",
+        "contact": "+1 (993) 521-2429"
+      }
+    ],
+    "greeting": "Hello, interested in the Ducati non? We have great offers waiting for you!",
+    "popularAccessory": "helmet"
+  },
+  {
+    "guid": "dc911beb-3281-493b-8096-08d22785c417",
+    "isActive": true,
+    "price": "$7,161.19",
+    "picture": "http://placehold.it/64x64",
+    "make": "Ducati",
+    "model": "adipisicing",
+    "year": 2010,
+    "mileage": 15373,
+    "color": "white",
+    "engineType": "V-twin",
+    "displacement": "884 cc",
+    "transmission": "manual",
+    "status": "available",
+    "dealership": "FUTURIZE",
+    "address": "273 Ralph Avenue, Barclay, Puerto Rico, 7751",
+    "registrationDate": "2011-06-28T06:19:55 +05:00",
+    "latitude": 53.151128,
+    "longitude": 164.512932,
+    "tags": [
+      "do",
+      "reprehenderit",
+      "dolore",
+      "magna"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Hammond Lynn",
+        "purchaseDate": "2020-05-15",
+        "contact": "+1 (914) 421-3731"
+      },
+      {
+        "id": 1,
+        "name": "Deanna Casey",
+        "purchaseDate": "2019-12-18",
+        "contact": "+1 (866) 577-2765"
+      }
+    ],
+    "greeting": "Hello, interested in the Ducati adipisicing? We have great offers waiting for you!",
+    "popularAccessory": "jacket"
+  },
+  {
+    "guid": "f67c2d8e-1bdb-4ebe-9cd2-8b99ccaa7e7c",
+    "isActive": false,
+    "price": "$4,853.35",
+    "picture": "http://placehold.it/64x64",
+    "make": "BMW",
+    "model": "eu",
+    "year": 2023,
+    "mileage": 28342,
+    "color": "gray",
+    "engineType": "inline-four",
+    "displacement": "1088 cc",
+    "transmission": "manual",
+    "status": "available",
+    "dealership": "KRAGGLE",
+    "address": "788 Bank Street, Dalton, Northern Mariana Islands, 3812",
+    "registrationDate": "2023-12-25T06:41:35 +05:00",
+    "latitude": -88.294448,
+    "longitude": -85.433779,
+    "tags": [
+      "est",
+      "consectetur",
+      "consectetur",
+      "ullamco"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Wendy Gay",
+        "purchaseDate": "2015-02-05",
+        "contact": "+1 (881) 542-3727"
+      }
+    ],
+    "greeting": "Hello, interested in the BMW eu? We have great offers waiting for you!",
+    "popularAccessory": "jacket"
+  },
+  {
+    "guid": "d9c508fc-98b8-40c3-a754-57a0a58fe8ab",
+    "isActive": true,
+    "price": "$12,658.26",
+    "picture": "http://placehold.it/64x64",
+    "make": "Harley-Davidson",
+    "model": "pariatur",
+    "year": 2011,
+    "mileage": 9051,
+    "color": "gray",
+    "engineType": "boxer",
+    "displacement": "1053 cc",
+    "transmission": "manual",
+    "status": "available",
+    "dealership": "SENSATE",
+    "address": "118 Sackett Street, Blue, Maine, 6123",
+    "registrationDate": "2013-03-09T08:56:47 +05:00",
+    "latitude": -62.653409,
+    "longitude": -75.771661,
+    "tags": [
+      "laboris",
+      "officia",
+      "aliqua",
+      "esse",
+      "Lorem"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Chapman Charles",
+        "purchaseDate": "2018-02-28",
+        "contact": "+1 (922) 512-2143"
+      },
+      {
+        "id": 1,
+        "name": "Davis Oliver",
+        "purchaseDate": "2019-10-14",
+        "contact": "+1 (928) 522-3521"
+      }
+    ],
+    "greeting": "Hello, interested in the Harley-Davidson pariatur? We have great offers waiting for you!",
+    "popularAccessory": "jacket"
+  },
+  {
+    "guid": "b23e4e7f-d0c9-40e1-930d-a2fa34333dca",
+    "isActive": true,
+    "price": "$8,348.26",
+    "picture": "http://placehold.it/64x64",
+    "make": "Kawasaki",
+    "model": "deserunt",
+    "year": 2023,
+    "mileage": 19588,
+    "color": "blue",
+    "engineType": "V-twin",
+    "displacement": "1043 cc",
+    "transmission": "automatic",
+    "status": "available",
+    "dealership": "TERAPRENE",
+    "address": "630 Stryker Street, Frystown, Illinois, 5323",
+    "registrationDate": "2024-03-05T04:34:39 +05:00",
+    "latitude": -82.992666,
+    "longitude": -154.990444,
+    "tags": [
+      "duis",
+      "eu",
+      "ut",
+      "quis",
+      "ullamco"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Carolina Hoffman",
+        "purchaseDate": "2019-10-17",
+        "contact": "+1 (826) 408-3682"
+      },
+      {
+        "id": 1,
+        "name": "Stewart Kaufman",
+        "purchaseDate": "2020-01-15",
+        "contact": "+1 (928) 415-3948"
+      },
+      {
+        "id": 2,
+        "name": "Bryan Rosales",
+        "purchaseDate": "2019-04-05",
+        "contact": "+1 (881) 463-3524"
+      }
+    ],
+    "greeting": "Hello, interested in the Kawasaki deserunt? We have great offers waiting for you!",
+    "popularAccessory": "gloves"
+  },
+  {
+    "guid": "da0ef6cb-4abb-4d45-9674-4c82404739f2",
+    "isActive": true,
+    "price": "$10,562.37",
+    "picture": "http://placehold.it/64x64",
+    "make": "Harley-Davidson",
+    "model": "cillum",
+    "year": 2011,
+    "mileage": 33614,
+    "color": "yellow",
+    "engineType": "single-cylinder",
+    "displacement": "186 cc",
+    "transmission": "manual",
+    "status": "reserved",
+    "dealership": "ESCENTA",
+    "address": "694 Quentin Road, Manitou, Virgin Islands, 135",
+    "registrationDate": "2011-06-02T11:08:11 +05:00",
+    "latitude": -9.528593,
+    "longitude": -149.116939,
+    "tags": [
+      "quis",
+      "veniam",
+      "officia",
+      "deserunt",
+      "non"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Lilian Combs",
+        "purchaseDate": "2022-01-13",
+        "contact": "+1 (843) 417-2497"
+      },
+      {
+        "id": 1,
+        "name": "Miller Frye",
+        "purchaseDate": "2018-12-10",
+        "contact": "+1 (932) 506-3572"
+      },
+      {
+        "id": 2,
+        "name": "Sheila Briggs",
+        "purchaseDate": "2020-05-22",
+        "contact": "+1 (963) 510-2744"
+      }
+    ],
+    "greeting": "Hello, interested in the Harley-Davidson cillum? We have great offers waiting for you!",
+    "popularAccessory": "helmet"
+  },
+  {
+    "guid": "a6aea005-ba37-4156-8588-44d62bc1421d",
+    "isActive": false,
+    "price": "$11,362.37",
+    "picture": "http://placehold.it/64x64",
+    "make": "Harley-Davidson",
+    "model": "quis",
+    "year": 2018,
+    "mileage": 14185,
+    "color": "red",
+    "engineType": "single-cylinder",
+    "displacement": "802 cc",
+    "transmission": "automatic",
+    "status": "available",
+    "dealership": "SCENTRIC",
+    "address": "728 Beadel Street, Tyhee, Georgia, 7168",
+    "registrationDate": "2011-04-22T02:29:44 +05:00",
+    "latitude": -77.797631,
+    "longitude": 124.06186,
+    "tags": [
+      "mollit",
+      "adipisicing",
+      "pariatur",
+      "officia"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Strong Nash",
+        "purchaseDate": "2019-01-14",
+        "contact": "+1 (885) 528-2406"
+      }
+    ],
+    "greeting": "Hello, interested in the Harley-Davidson quis? We have great offers waiting for you!",
+    "popularAccessory": "helmet"
+  },
+  {
+    "guid": "6e2d2298-7422-4cec-89fb-57171d486d8b",
+    "isActive": true,
+    "price": "$4,146.91",
+    "picture": "http://placehold.it/64x64",
+    "make": "BMW",
+    "model": "magna",
+    "year": 2018,
+    "mileage": 12054,
+    "color": "white",
+    "engineType": "single-cylinder",
+    "displacement": "781 cc",
+    "transmission": "automatic",
+    "status": "sold",
+    "dealership": "COMCUR",
+    "address": "250 Croton Loop, Somerset, Oklahoma, 1639",
+    "registrationDate": "2024-03-17T07:34:33 +05:00",
+    "latitude": -30.597965,
+    "longitude": 142.886736,
+    "tags": [
+      "est",
+      "officia",
+      "exercitation",
+      "qui",
+      "veniam"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Lynn Bauer",
+        "purchaseDate": "2020-04-08",
+        "contact": "+1 (808) 541-3587"
+      },
+      {
+        "id": 1,
+        "name": "Roman Boone",
+        "purchaseDate": "2015-01-09",
+        "contact": "+1 (924) 598-3508"
+      }
+    ],
+    "greeting": "Hello, interested in the BMW magna? We have great offers waiting for you!",
+    "popularAccessory": "cover"
+  },
+  {
+    "guid": "4f3f2ab6-0a82-4a3c-916e-752dfdc58a56",
+    "isActive": false,
+    "price": "$3,883.38",
+    "picture": "http://placehold.it/64x64",
+    "make": "Kawasaki",
+    "model": "deserunt",
+    "year": 2018,
+    "mileage": 24135,
+    "color": "red",
+    "engineType": "parallel-twin",
+    "displacement": "349 cc",
+    "transmission": "automatic",
+    "status": "reserved",
+    "dealership": "IMPERIUM",
+    "address": "335 Brevoort Place, Sugartown, Hawaii, 2483",
+    "registrationDate": "2010-09-01T10:48:56 +05:00",
+    "latitude": -47.702015,
+    "longitude": 176.172586,
+    "tags": [
+      "incididunt",
+      "tempor",
+      "sint",
+      "voluptate",
+      "esse"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Leigh Clemons",
+        "purchaseDate": "2016-12-20",
+        "contact": "+1 (828) 544-2451"
+      },
+      {
+        "id": 1,
+        "name": "Ashley Mccall",
+        "purchaseDate": "2019-08-15",
+        "contact": "+1 (875) 565-2846"
+      }
+    ],
+    "greeting": "Hello, interested in the Kawasaki deserunt? We have great offers waiting for you!",
+    "popularAccessory": "jacket"
+  },
+  {
+    "guid": "f9753aa1-2373-481b-9daf-69bf007fa097",
+    "isActive": false,
+    "price": "$6,361.62",
+    "picture": "http://placehold.it/64x64",
+    "make": "Kawasaki",
+    "model": "sint",
+    "year": 2013,
+    "mileage": 16843,
+    "color": "white",
+    "engineType": "parallel-twin",
+    "displacement": "815 cc",
+    "transmission": "manual",
+    "status": "available",
+    "dealership": "UTARA",
+    "address": "590 Sunnyside Avenue, Tampico, American Samoa, 1183",
+    "registrationDate": "2021-05-06T10:20:52 +05:00",
+    "latitude": 17.912034,
+    "longitude": -165.997612,
+    "tags": [
+      "exercitation",
+      "excepteur",
+      "aute",
+      "minim"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Decker Moody",
+        "purchaseDate": "2021-01-18",
+        "contact": "+1 (811) 539-2604"
+      },
+      {
+        "id": 1,
+        "name": "Oneal Zamora",
+        "purchaseDate": "2018-12-16",
+        "contact": "+1 (982) 580-3624"
+      }
+    ],
+    "greeting": "Hello, interested in the Kawasaki sint? We have great offers waiting for you!",
+    "popularAccessory": "helmet"
+  },
+  {
+    "guid": "a7223306-ea67-4cd6-9b31-ef9ba08dc59f",
+    "isActive": false,
+    "price": "$12,399.84",
+    "picture": "http://placehold.it/64x64",
+    "make": "BMW",
+    "model": "nisi",
+    "year": 2018,
+    "mileage": 26653,
+    "color": "gray",
+    "engineType": "single-cylinder",
+    "displacement": "307 cc",
+    "transmission": "automatic",
+    "status": "available",
+    "dealership": "HOPELI",
+    "address": "547 Jackson Street, Northridge, West Virginia, 405",
+    "registrationDate": "2019-01-14T07:08:39 +05:00",
+    "latitude": -75.114073,
+    "longitude": 35.870022,
+    "tags": [
+      "eiusmod",
+      "anim",
+      "culpa"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Navarro Bowman",
+        "purchaseDate": "2021-01-14",
+        "contact": "+1 (918) 567-3045"
+      },
+      {
+        "id": 1,
+        "name": "Campbell Tate",
+        "purchaseDate": "2015-01-02",
+        "contact": "+1 (977) 490-2820"
+      },
+      {
+        "id": 2,
+        "name": "Lynda Whitfield",
+        "purchaseDate": "2018-07-07",
+        "contact": "+1 (883) 527-3050"
+      }
+    ],
+    "greeting": "Hello, interested in the BMW nisi? We have great offers waiting for you!",
+    "popularAccessory": "jacket"
+  },
+  {
+    "guid": "fe9effe0-a499-4b6b-b7b5-05b91dc0b84b",
+    "isActive": false,
+    "price": "$13,109.24",
+    "picture": "http://placehold.it/64x64",
+    "make": "Kawasaki",
+    "model": "nisi",
+    "year": 2019,
+    "mileage": 23232,
+    "color": "blue",
+    "engineType": "single-cylinder",
+    "displacement": "444 cc",
+    "transmission": "manual",
+    "status": "reserved",
+    "dealership": "EXOVENT",
+    "address": "160 Pooles Lane, Catherine, Arkansas, 2733",
+    "registrationDate": "2022-05-27T03:10:01 +05:00",
+    "latitude": 38.668402,
+    "longitude": 21.00813,
+    "tags": [
+      "cupidatat",
+      "fugiat",
+      "aliqua",
+      "reprehenderit"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Nunez Ayers",
+        "purchaseDate": "2015-03-01",
+        "contact": "+1 (959) 600-2835"
+      },
+      {
+        "id": 1,
+        "name": "Dina Cannon",
+        "purchaseDate": "2015-12-07",
+        "contact": "+1 (849) 513-2806"
+      },
+      {
+        "id": 2,
+        "name": "Goodman Brooks",
+        "purchaseDate": "2022-01-14",
+        "contact": "+1 (981) 463-3329"
+      }
+    ],
+    "greeting": "Hello, interested in the Kawasaki nisi? We have great offers waiting for you!",
+    "popularAccessory": "gloves"
+  },
+  {
+    "guid": "4516c918-8432-404b-bd32-7ac8e7e0f9ca",
+    "isActive": false,
+    "price": "$7,188.21",
+    "picture": "http://placehold.it/64x64",
+    "make": "Honda",
+    "model": "fugiat",
+    "year": 2012,
+    "mileage": 13635,
+    "color": "black",
+    "engineType": "parallel-twin",
+    "displacement": "189 cc",
+    "transmission": "automatic",
+    "status": "sold",
+    "dealership": "YURTURE",
+    "address": "839 Woodhull Street, Herlong, Kansas, 3021",
+    "registrationDate": "2014-08-17T10:43:53 +05:00",
+    "latitude": -72.305187,
+    "longitude": -98.559619,
+    "tags": [
+      "sint",
+      "esse",
+      "labore"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Beryl Valencia",
+        "purchaseDate": "2019-04-18",
+        "contact": "+1 (814) 494-2962"
+      },
+      {
+        "id": 1,
+        "name": "Debora Lindsay",
+        "purchaseDate": "2016-08-23",
+        "contact": "+1 (879) 554-3487"
+      }
+    ],
+    "greeting": "Hello, interested in the Honda fugiat? We have great offers waiting for you!",
+    "popularAccessory": "gloves"
+  },
+  {
+    "guid": "43cdfc23-88a7-48bf-87ce-26d4dad4ebbc",
+    "isActive": true,
+    "price": "$8,927.31",
+    "picture": "http://placehold.it/64x64",
+    "make": "Yamaha",
+    "model": "ad",
+    "year": 2017,
+    "mileage": 3210,
+    "color": "black",
+    "engineType": "V-twin",
+    "displacement": "345 cc",
+    "transmission": "manual",
+    "status": "sold",
+    "dealership": "XYQAG",
+    "address": "251 Lombardy Street, Waterview, Indiana, 2267",
+    "registrationDate": "2022-06-13T02:04:20 +05:00",
+    "latitude": -29.594171,
+    "longitude": 13.852602,
+    "tags": [
+      "non",
+      "magna",
+      "non"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Jennifer Cain",
+        "purchaseDate": "2020-12-08",
+        "contact": "+1 (800) 499-2627"
+      },
+      {
+        "id": 1,
+        "name": "Silva Walter",
+        "purchaseDate": "2016-11-22",
+        "contact": "+1 (865) 465-2638"
+      },
+      {
+        "id": 2,
+        "name": "Dunlap Allen",
+        "purchaseDate": "2022-04-11",
+        "contact": "+1 (923) 400-2076"
+      }
+    ],
+    "greeting": "Hello, interested in the Yamaha ad? We have great offers waiting for you!",
+    "popularAccessory": "gloves"
+  },
+  {
+    "guid": "a9f22f07-f9fd-4df2-bee3-ff16af5f27c4",
+    "isActive": false,
+    "price": "$11,380.93",
+    "picture": "http://placehold.it/64x64",
+    "make": "Ducati",
+    "model": "ex",
+    "year": 2010,
+    "mileage": 28411,
+    "color": "yellow",
+    "engineType": "V-twin",
+    "displacement": "671 cc",
+    "transmission": "manual",
+    "status": "available",
+    "dealership": "ECOSYS",
+    "address": "337 Aviation Road, Englevale, Maryland, 5072",
+    "registrationDate": "2014-08-22T09:59:35 +05:00",
+    "latitude": -78.642737,
+    "longitude": -26.949155,
+    "tags": [
+      "tempor",
+      "consequat",
+      "laborum",
+      "ea",
+      "veniam"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Rosemary Vaughn",
+        "purchaseDate": "2020-08-17",
+        "contact": "+1 (857) 507-3105"
+      },
+      {
+        "id": 1,
+        "name": "Schneider Hardy",
+        "purchaseDate": "2019-04-13",
+        "contact": "+1 (841) 413-2204"
+      },
+      {
+        "id": 2,
+        "name": "Bianca Fleming",
+        "purchaseDate": "2016-10-22",
+        "contact": "+1 (966) 538-3066"
+      }
+    ],
+    "greeting": "Hello, interested in the Ducati ex? We have great offers waiting for you!",
+    "popularAccessory": "gloves"
+  },
+  {
+    "guid": "4ed551d7-cfb7-4c86-8747-896710e86147",
+    "isActive": true,
+    "price": "$14,063.92",
+    "picture": "http://placehold.it/64x64",
+    "make": "Honda",
+    "model": "ea",
+    "year": 2023,
+    "mileage": 37700,
+    "color": "blue",
+    "engineType": "single-cylinder",
+    "displacement": "830 cc",
+    "transmission": "automatic",
+    "status": "available",
+    "dealership": "MATRIXITY",
+    "address": "777 Story Street, Fannett, Wisconsin, 6568",
+    "registrationDate": "2020-03-21T03:38:17 +05:00",
+    "latitude": -61.648963,
+    "longitude": 157.133735,
+    "tags": [
+      "exercitation",
+      "dolore",
+      "officia"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Mandy Dyer",
+        "purchaseDate": "2017-09-25",
+        "contact": "+1 (820) 510-2532"
+      },
+      {
+        "id": 1,
+        "name": "Inez Pruitt",
+        "purchaseDate": "2015-07-17",
+        "contact": "+1 (872) 426-2913"
+      }
+    ],
+    "greeting": "Hello, interested in the Honda ea? We have great offers waiting for you!",
+    "popularAccessory": "helmet"
+  },
+  {
+    "guid": "3ba1e237-a1d8-4d1e-b53d-7657b9da54f0",
+    "isActive": false,
+    "price": "$4,135.14",
+    "picture": "http://placehold.it/64x64",
+    "make": "Ducati",
+    "model": "aliqua",
+    "year": 2018,
+    "mileage": 34539,
+    "color": "black",
+    "engineType": "single-cylinder",
+    "displacement": "737 cc",
+    "transmission": "manual",
+    "status": "available",
+    "dealership": "ENDIPIN",
+    "address": "373 Newton Street, Echo, Nebraska, 5774",
+    "registrationDate": "2021-10-18T10:17:05 +05:00",
+    "latitude": -65.894614,
+    "longitude": -10.612898,
+    "tags": [
+      "proident",
+      "ullamco",
+      "et",
+      "magna"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Sutton Mercado",
+        "purchaseDate": "2019-05-03",
+        "contact": "+1 (843) 522-3844"
+      },
+      {
+        "id": 1,
+        "name": "Ester Holcomb",
+        "purchaseDate": "2018-02-12",
+        "contact": "+1 (820) 523-2929"
+      },
+      {
+        "id": 2,
+        "name": "Natalie Villarreal",
+        "purchaseDate": "2015-10-14",
+        "contact": "+1 (934) 421-2482"
+      }
+    ],
+    "greeting": "Hello, interested in the Ducati aliqua? We have great offers waiting for you!",
+    "popularAccessory": "jacket"
+  },
+  {
+    "guid": "e109d5a2-98fc-4bfd-86dc-94eca1a0ebd8",
+    "isActive": true,
+    "price": "$6,435.62",
+    "picture": "http://placehold.it/64x64",
+    "make": "Honda",
+    "model": "irure",
+    "year": 2018,
+    "mileage": 32420,
+    "color": "yellow",
+    "engineType": "V-twin",
+    "displacement": "562 cc",
+    "transmission": "manual",
+    "status": "sold",
+    "dealership": "DOGTOWN",
+    "address": "752 Tennis Court, Maybell, Louisiana, 8092",
+    "registrationDate": "2015-12-21T07:24:03 +05:00",
+    "latitude": -68.683913,
+    "longitude": 47.732799,
+    "tags": [
+      "labore",
+      "tempor",
+      "aute",
+      "id",
+      "cupidatat"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Whitney Bradford",
+        "purchaseDate": "2020-06-04",
+        "contact": "+1 (858) 412-2172"
+      },
+      {
+        "id": 1,
+        "name": "Amie Sparks",
+        "purchaseDate": "2022-05-05",
+        "contact": "+1 (901) 466-3077"
+      },
+      {
+        "id": 2,
+        "name": "Magdalena Wiley",
+        "purchaseDate": "2016-02-15",
+        "contact": "+1 (922) 595-2069"
+      }
+    ],
+    "greeting": "Hello, interested in the Honda irure? We have great offers waiting for you!",
+    "popularAccessory": "cover"
+  },
+  {
+    "guid": "8b4b4296-9fae-4ae0-a4b0-8ca38ac9161b",
+    "isActive": false,
+    "price": "$7,043.50",
+    "picture": "http://placehold.it/64x64",
+    "make": "Harley-Davidson",
+    "model": "eu",
+    "year": 2012,
+    "mileage": 48123,
+    "color": "yellow",
+    "engineType": "single-cylinder",
+    "displacement": "196 cc",
+    "transmission": "automatic",
+    "status": "reserved",
+    "dealership": "KYAGORO",
+    "address": "742 Stuyvesant Avenue, Concho, New Mexico, 2897",
+    "registrationDate": "2018-05-29T02:34:41 +05:00",
+    "latitude": -58.010304,
+    "longitude": -141.868961,
+    "tags": [
+      "ipsum",
+      "dolor",
+      "excepteur",
+      "excepteur"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Winifred Griffin",
+        "purchaseDate": "2017-01-25",
+        "contact": "+1 (933) 529-3559"
+      }
+    ],
+    "greeting": "Hello, interested in the Harley-Davidson eu? We have great offers waiting for you!",
+    "popularAccessory": "jacket"
+  },
+  {
+    "guid": "746f9f58-0680-4883-88f3-fb7a45b490d7",
+    "isActive": true,
+    "price": "$10,377.62",
+    "picture": "http://placehold.it/64x64",
+    "make": "Kawasaki",
+    "model": "esse",
+    "year": 2017,
+    "mileage": 3703,
+    "color": "gray",
+    "engineType": "parallel-twin",
+    "displacement": "240 cc",
+    "transmission": "automatic",
+    "status": "sold",
+    "dealership": "FANFARE",
+    "address": "397 Miller Avenue, Remington, Marshall Islands, 4964",
+    "registrationDate": "2016-02-08T10:00:26 +05:00",
+    "latitude": 66.427541,
+    "longitude": -45.641975,
+    "tags": [
+      "dolor",
+      "fugiat",
+      "esse",
+      "mollit",
+      "deserunt"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Michael Johnston",
+        "purchaseDate": "2016-08-05",
+        "contact": "+1 (917) 440-3716"
+      }
+    ],
+    "greeting": "Hello, interested in the Kawasaki esse? We have great offers waiting for you!",
+    "popularAccessory": "cover"
+  },
+  {
+    "guid": "b878d00d-2926-4ed4-a613-9b331e71d40c",
+    "isActive": true,
+    "price": "$4,585.13",
+    "picture": "http://placehold.it/64x64",
+    "make": "Ducati",
+    "model": "sit",
+    "year": 2022,
+    "mileage": 17176,
+    "color": "black",
+    "engineType": "V-twin",
+    "displacement": "874 cc",
+    "transmission": "automatic",
+    "status": "available",
+    "dealership": "PORTALINE",
+    "address": "498 Radde Place, Worcester, Colorado, 5764",
+    "registrationDate": "2013-04-30T01:54:06 +05:00",
+    "latitude": 63.817487,
+    "longitude": -137.857992,
+    "tags": [
+      "ex",
+      "laboris",
+      "officia",
+      "non"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Rowe Sharp",
+        "purchaseDate": "2018-04-29",
+        "contact": "+1 (968) 555-3552"
+      }
+    ],
+    "greeting": "Hello, interested in the Ducati sit? We have great offers waiting for you!",
+    "popularAccessory": "cover"
+  },
+  {
+    "guid": "5bdb823e-7d1c-42bf-969c-736dda27a2bb",
+    "isActive": true,
+    "price": "$11,786.87",
+    "picture": "http://placehold.it/64x64",
+    "make": "Ducati",
+    "model": "voluptate",
+    "year": 2014,
+    "mileage": 31725,
+    "color": "white",
+    "engineType": "boxer",
+    "displacement": "306 cc",
+    "transmission": "manual",
+    "status": "sold",
+    "dealership": "ZANITY",
+    "address": "924 Wakeman Place, Welda, Oregon, 452",
+    "registrationDate": "2019-04-21T11:20:01 +05:00",
+    "latitude": 39.868766,
+    "longitude": 64.331841,
+    "tags": [
+      "mollit",
+      "do",
+      "sit",
+      "ut",
+      "aute"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Amanda Guerra",
+        "purchaseDate": "2022-07-10",
+        "contact": "+1 (914) 477-3433"
+      },
+      {
+        "id": 1,
+        "name": "Sellers Burks",
+        "purchaseDate": "2017-12-13",
+        "contact": "+1 (916) 584-2160"
+      }
+    ],
+    "greeting": "Hello, interested in the Ducati voluptate? We have great offers waiting for you!",
+    "popularAccessory": "helmet"
+  },
+  {
+    "guid": "c488faf1-eebb-439b-84cf-cdaec84e75ea",
+    "isActive": true,
+    "price": "$7,393.90",
+    "picture": "http://placehold.it/64x64",
+    "make": "Ducati",
+    "model": "consectetur",
+    "year": 2023,
+    "mileage": 47914,
+    "color": "gray",
+    "engineType": "single-cylinder",
+    "displacement": "552 cc",
+    "transmission": "manual",
+    "status": "reserved",
+    "dealership": "CODAX",
+    "address": "787 Lafayette Avenue, Jennings, Alaska, 9141",
+    "registrationDate": "2023-05-08T03:46:35 +05:00",
+    "latitude": -11.39348,
+    "longitude": -118.692658,
+    "tags": [
+      "ex",
+      "cillum",
+      "cillum"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Janna Snyder",
+        "purchaseDate": "2021-01-23",
+        "contact": "+1 (963) 470-2487"
+      },
+      {
+        "id": 1,
+        "name": "Wiley Henson",
+        "purchaseDate": "2018-08-13",
+        "contact": "+1 (991) 471-3564"
+      },
+      {
+        "id": 2,
+        "name": "Elisa Blankenship",
+        "purchaseDate": "2021-03-25",
+        "contact": "+1 (942) 522-3035"
+      }
+    ],
+    "greeting": "Hello, interested in the Ducati consectetur? We have great offers waiting for you!",
+    "popularAccessory": "gloves"
+  },
+  {
+    "guid": "f7f1ad74-c791-447d-aca3-1d0097816019",
+    "isActive": true,
+    "price": "$7,916.20",
+    "picture": "http://placehold.it/64x64",
+    "make": "Ducati",
+    "model": "velit",
+    "year": 2014,
+    "mileage": 16750,
+    "color": "white",
+    "engineType": "single-cylinder",
+    "displacement": "1155 cc",
+    "transmission": "automatic",
+    "status": "reserved",
+    "dealership": "FUTURITY",
+    "address": "876 Thatford Avenue, Spelter, Iowa, 4890",
+    "registrationDate": "2011-08-11T03:21:48 +05:00",
+    "latitude": 22.98895,
+    "longitude": 112.244845,
+    "tags": [
+      "aliquip",
+      "nostrud",
+      "et",
+      "eu"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Daisy Raymond",
+        "purchaseDate": "2020-12-14",
+        "contact": "+1 (946) 469-3377"
+      }
+    ],
+    "greeting": "Hello, interested in the Ducati velit? We have great offers waiting for you!",
+    "popularAccessory": "helmet"
+  },
+  {
+    "guid": "902f6a55-ebef-4dad-b7f7-170de887a70f",
+    "isActive": true,
+    "price": "$13,658.88",
+    "picture": "http://placehold.it/64x64",
+    "make": "Honda",
+    "model": "elit",
+    "year": 2022,
+    "mileage": 20540,
+    "color": "white",
+    "engineType": "single-cylinder",
+    "displacement": "566 cc",
+    "transmission": "automatic",
+    "status": "sold",
+    "dealership": "MEDIFAX",
+    "address": "598 Broadway , Lookingglass, Minnesota, 6141",
+    "registrationDate": "2024-08-24T08:27:09 +05:00",
+    "latitude": -23.205009,
+    "longitude": -159.53549,
+    "tags": [
+      "officia",
+      "aute",
+      "eu",
+      "velit"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Florence Woodard",
+        "purchaseDate": "2018-03-25",
+        "contact": "+1 (816) 594-3483"
+      }
+    ],
+    "greeting": "Hello, interested in the Honda elit? We have great offers waiting for you!",
+    "popularAccessory": "cover"
+  },
+  {
+    "guid": "22213a59-7e22-41e6-8b86-a450d6842de5",
+    "isActive": false,
+    "price": "$10,033.94",
+    "picture": "http://placehold.it/64x64",
+    "make": "Kawasaki",
+    "model": "aliquip",
+    "year": 2015,
+    "mileage": 8823,
+    "color": "black",
+    "engineType": "boxer",
+    "displacement": "654 cc",
+    "transmission": "manual",
+    "status": "reserved",
+    "dealership": "TALKOLA",
+    "address": "815 Newport Street, Nipinnawasee, Michigan, 569",
+    "registrationDate": "2012-11-24T05:15:27 +05:00",
+    "latitude": 38.573203,
+    "longitude": 15.225937,
+    "tags": [
+      "id",
+      "est",
+      "ullamco",
+      "enim",
+      "consequat"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Leach Castillo",
+        "purchaseDate": "2021-05-04",
+        "contact": "+1 (909) 502-3582"
+      }
+    ],
+    "greeting": "Hello, interested in the Kawasaki aliquip? We have great offers waiting for you!",
+    "popularAccessory": "helmet"
+  },
+  {
+    "guid": "6c75d9ef-c60e-4fba-a052-9e8561956291",
+    "isActive": false,
+    "price": "$13,827.69",
+    "picture": "http://placehold.it/64x64",
+    "make": "BMW",
+    "model": "amet",
+    "year": 2023,
+    "mileage": 47282,
+    "color": "white",
+    "engineType": "inline-four",
+    "displacement": "798 cc",
+    "transmission": "automatic",
+    "status": "reserved",
+    "dealership": "COASH",
+    "address": "797 Beverly Road, Muse, Rhode Island, 847",
+    "registrationDate": "2017-07-29T02:20:16 +05:00",
+    "latitude": 14.575725,
+    "longitude": -115.711089,
+    "tags": [
+      "sit",
+      "nulla",
+      "magna"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Shawna Gross",
+        "purchaseDate": "2017-09-07",
+        "contact": "+1 (818) 580-3473"
+      },
+      {
+        "id": 1,
+        "name": "Taylor Wynn",
+        "purchaseDate": "2019-10-26",
+        "contact": "+1 (929) 559-3887"
+      },
+      {
+        "id": 2,
+        "name": "Hester Hill",
+        "purchaseDate": "2022-03-21",
+        "contact": "+1 (975) 503-3958"
+      }
+    ],
+    "greeting": "Hello, interested in the BMW amet? We have great offers waiting for you!",
+    "popularAccessory": "gloves"
+  },
+  {
+    "guid": "7cf661a0-ffa2-476f-829f-3849a4264504",
+    "isActive": false,
+    "price": "$14,298.74",
+    "picture": "http://placehold.it/64x64",
+    "make": "BMW",
+    "model": "esse",
+    "year": 2010,
+    "mileage": 14995,
+    "color": "red",
+    "engineType": "boxer",
+    "displacement": "1076 cc",
+    "transmission": "automatic",
+    "status": "reserved",
+    "dealership": "ZOGAK",
+    "address": "733 Williams Avenue, Oberlin, District Of Columbia, 4848",
+    "registrationDate": "2023-02-26T05:27:18 +05:00",
+    "latitude": -53.234004,
+    "longitude": 39.263562,
+    "tags": [
+      "est",
+      "fugiat",
+      "laboris",
+      "consectetur"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Hartman Lester",
+        "purchaseDate": "2019-09-10",
+        "contact": "+1 (814) 596-2327"
+      },
+      {
+        "id": 1,
+        "name": "Kline Henderson",
+        "purchaseDate": "2021-07-13",
+        "contact": "+1 (996) 430-2409"
+      }
+    ],
+    "greeting": "Hello, interested in the BMW esse? We have great offers waiting for you!",
+    "popularAccessory": "gloves"
+  },
+  {
+    "guid": "98043833-4c0f-4e14-98a0-25467b6b387c",
+    "isActive": false,
+    "price": "$5,468.91",
+    "picture": "http://placehold.it/64x64",
+    "make": "Honda",
+    "model": "tempor",
+    "year": 2011,
+    "mileage": 3008,
+    "color": "blue",
+    "engineType": "inline-four",
+    "displacement": "350 cc",
+    "transmission": "manual",
+    "status": "sold",
+    "dealership": "EWAVES",
+    "address": "264 Folsom Place, Kenmar, Arizona, 3448",
+    "registrationDate": "2017-06-10T06:56:08 +05:00",
+    "latitude": -19.237377,
+    "longitude": 137.181086,
+    "tags": [
+      "adipisicing",
+      "cupidatat",
+      "duis"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Tasha Small",
+        "purchaseDate": "2021-12-19",
+        "contact": "+1 (867) 533-3906"
+      }
+    ],
+    "greeting": "Hello, interested in the Honda tempor? We have great offers waiting for you!",
+    "popularAccessory": "cover"
+  },
+  {
+    "guid": "1e9cbb2c-c8e6-4ac7-a9ed-8d5a50dd9e55",
+    "isActive": true,
+    "price": "$8,688.39",
+    "picture": "http://placehold.it/64x64",
+    "make": "Honda",
+    "model": "consequat",
+    "year": 2010,
+    "mileage": 45392,
+    "color": "gray",
+    "engineType": "parallel-twin",
+    "displacement": "726 cc",
+    "transmission": "automatic",
+    "status": "reserved",
+    "dealership": "ZAJ",
+    "address": "422 Friel Place, Innsbrook, Kentucky, 6990",
+    "registrationDate": "2014-03-21T03:45:34 +05:00",
+    "latitude": 35.040792,
+    "longitude": -124.701826,
+    "tags": [
+      "veniam",
+      "exercitation",
+      "ut",
+      "incididunt"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Randi Scott",
+        "purchaseDate": "2019-03-18",
+        "contact": "+1 (834) 576-2337"
+      },
+      {
+        "id": 1,
+        "name": "Hall Boyle",
+        "purchaseDate": "2020-08-22",
+        "contact": "+1 (851) 531-2734"
+      },
+      {
+        "id": 2,
+        "name": "Gay Jefferson",
+        "purchaseDate": "2015-07-30",
+        "contact": "+1 (955) 489-3730"
+      }
+    ],
+    "greeting": "Hello, interested in the Honda consequat? We have great offers waiting for you!",
+    "popularAccessory": "gloves"
+  },
+  {
+    "guid": "79507ec6-1332-4f3c-a200-e362bdededcc",
+    "isActive": true,
+    "price": "$3,730.71",
+    "picture": "http://placehold.it/64x64",
+    "make": "Ducati",
+    "model": "anim",
+    "year": 2022,
+    "mileage": 13489,
+    "color": "gray",
+    "engineType": "single-cylinder",
+    "displacement": "1081 cc",
+    "transmission": "automatic",
+    "status": "available",
+    "dealership": "ISONUS",
+    "address": "214 Richmond Street, Bangor, Utah, 1426",
+    "registrationDate": "2011-01-21T03:00:44 +05:00",
+    "latitude": -85.116874,
+    "longitude": -50.88411,
+    "tags": [
+      "dolor",
+      "consectetur",
+      "est",
+      "non"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Sonya Green",
+        "purchaseDate": "2017-01-09",
+        "contact": "+1 (906) 513-3436"
+      },
+      {
+        "id": 1,
+        "name": "Sandy Hobbs",
+        "purchaseDate": "2021-03-21",
+        "contact": "+1 (924) 447-2591"
+      },
+      {
+        "id": 2,
+        "name": "Gregory Sweet",
+        "purchaseDate": "2020-07-29",
+        "contact": "+1 (873) 515-2293"
+      }
+    ],
+    "greeting": "Hello, interested in the Ducati anim? We have great offers waiting for you!",
+    "popularAccessory": "cover"
+  },
+  {
+    "guid": "13521df7-2d10-41d8-b6f9-a76dd025a72c",
+    "isActive": true,
+    "price": "$5,646.48",
+    "picture": "http://placehold.it/64x64",
+    "make": "Ducati",
+    "model": "cupidatat",
+    "year": 2021,
+    "mileage": 24348,
+    "color": "white",
+    "engineType": "inline-four",
+    "displacement": "1037 cc",
+    "transmission": "automatic",
+    "status": "reserved",
+    "dealership": "ISOSURE",
+    "address": "644 Lois Avenue, Wiscon, Texas, 9688",
+    "registrationDate": "2016-10-15T02:27:36 +05:00",
+    "latitude": 54.887144,
+    "longitude": 60.880998,
+    "tags": [
+      "non",
+      "ullamco",
+      "et",
+      "ea"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Caroline Guthrie",
+        "purchaseDate": "2015-12-09",
+        "contact": "+1 (866) 595-2585"
+      },
+      {
+        "id": 1,
+        "name": "Hughes Rojas",
+        "purchaseDate": "2020-06-30",
+        "contact": "+1 (981) 512-3517"
+      },
+      {
+        "id": 2,
+        "name": "Aileen Adams",
+        "purchaseDate": "2019-06-17",
+        "contact": "+1 (917) 578-3474"
+      }
+    ],
+    "greeting": "Hello, interested in the Ducati cupidatat? We have great offers waiting for you!",
+    "popularAccessory": "helmet"
+  },
+  {
+    "guid": "2a000a9b-8cc2-4022-af96-cd4814f00daf",
+    "isActive": true,
+    "price": "$7,931.59",
+    "picture": "http://placehold.it/64x64",
+    "make": "Honda",
+    "model": "dolore",
+    "year": 2020,
+    "mileage": 14412,
+    "color": "gray",
+    "engineType": "V-twin",
+    "displacement": "530 cc",
+    "transmission": "manual",
+    "status": "available",
+    "dealership": "NEUROCELL",
+    "address": "641 Wilson Avenue, Lacomb, North Dakota, 3007",
+    "registrationDate": "2024-03-29T12:34:07 +05:00",
+    "latitude": -64.096844,
+    "longitude": 48.465905,
+    "tags": [
+      "esse",
+      "magna",
+      "aliqua",
+      "exercitation",
+      "in"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Sargent Steele",
+        "purchaseDate": "2018-03-12",
+        "contact": "+1 (863) 563-2546"
+      },
+      {
+        "id": 1,
+        "name": "Jacquelyn Webb",
+        "purchaseDate": "2017-03-27",
+        "contact": "+1 (915) 570-2890"
+      },
+      {
+        "id": 2,
+        "name": "Rowena Schroeder",
+        "purchaseDate": "2020-10-03",
+        "contact": "+1 (984) 403-3032"
+      }
+    ],
+    "greeting": "Hello, interested in the Honda dolore? We have great offers waiting for you!",
+    "popularAccessory": "jacket"
+  },
+  {
+    "guid": "65d339ea-e3ec-416d-bdf6-72c05ed342da",
+    "isActive": false,
+    "price": "$6,960.28",
+    "picture": "http://placehold.it/64x64",
+    "make": "Yamaha",
+    "model": "sit",
+    "year": 2013,
+    "mileage": 43520,
+    "color": "blue",
+    "engineType": "boxer",
+    "displacement": "897 cc",
+    "transmission": "manual",
+    "status": "reserved",
+    "dealership": "QOT",
+    "address": "189 Lincoln Place, Ticonderoga, Vermont, 8086",
+    "registrationDate": "2014-06-13T03:09:11 +05:00",
+    "latitude": 35.371753,
+    "longitude": -163.770407,
+    "tags": [
+      "veniam",
+      "magna",
+      "occaecat",
+      "ullamco",
+      "ullamco"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Burris Austin",
+        "purchaseDate": "2017-08-17",
+        "contact": "+1 (801) 426-2062"
+      }
+    ],
+    "greeting": "Hello, interested in the Yamaha sit? We have great offers waiting for you!",
+    "popularAccessory": "helmet"
+  },
+  {
+    "guid": "b183fa36-04e1-43b9-9dce-02bb57c8652b",
+    "isActive": false,
+    "price": "$6,079.41",
+    "picture": "http://placehold.it/64x64",
+    "make": "Kawasaki",
+    "model": "ullamco",
+    "year": 2016,
+    "mileage": 37441,
+    "color": "blue",
+    "engineType": "parallel-twin",
+    "displacement": "597 cc",
+    "transmission": "manual",
+    "status": "available",
+    "dealership": "BLUEGRAIN",
+    "address": "497 Montauk Court, Rew, Delaware, 2450",
+    "registrationDate": "2023-02-22T02:28:36 +05:00",
+    "latitude": 22.951458,
+    "longitude": 22.193275,
+    "tags": [
+      "sint",
+      "consectetur",
+      "aute"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Alfreda Norris",
+        "purchaseDate": "2018-11-24",
+        "contact": "+1 (961) 486-3509"
+      }
+    ],
+    "greeting": "Hello, interested in the Kawasaki ullamco? We have great offers waiting for you!",
+    "popularAccessory": "cover"
+  },
+  {
+    "guid": "8f113c43-c46e-427b-9739-0d369992d378",
+    "isActive": true,
+    "price": "$4,580.14",
+    "picture": "http://placehold.it/64x64",
+    "make": "Kawasaki",
+    "model": "fugiat",
+    "year": 2018,
+    "mileage": 47710,
+    "color": "white",
+    "engineType": "parallel-twin",
+    "displacement": "1198 cc",
+    "transmission": "automatic",
+    "status": "sold",
+    "dealership": "EBIDCO",
+    "address": "187 Grafton Street, Deseret, Alabama, 2010",
+    "registrationDate": "2015-08-29T07:38:15 +05:00",
+    "latitude": -55.672245,
+    "longitude": 151.311253,
+    "tags": [
+      "ullamco",
+      "do",
+      "exercitation",
+      "qui",
+      "cillum"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Harriet Dennis",
+        "purchaseDate": "2019-03-28",
+        "contact": "+1 (930) 469-3184"
+      },
+      {
+        "id": 1,
+        "name": "Angelia Powell",
+        "purchaseDate": "2020-05-10",
+        "contact": "+1 (997) 520-2907"
+      },
+      {
+        "id": 2,
+        "name": "Kasey Knox",
+        "purchaseDate": "2019-01-01",
+        "contact": "+1 (911) 438-3422"
+      }
+    ],
+    "greeting": "Hello, interested in the Kawasaki fugiat? We have great offers waiting for you!",
+    "popularAccessory": "gloves"
+  },
+  {
+    "guid": "f3cccee7-203f-412c-b631-cf43395b7ef3",
+    "isActive": false,
+    "price": "$8,563.05",
+    "picture": "http://placehold.it/64x64",
+    "make": "Honda",
+    "model": "laboris",
+    "year": 2011,
+    "mileage": 28186,
+    "color": "red",
+    "engineType": "parallel-twin",
+    "displacement": "779 cc",
+    "transmission": "manual",
+    "status": "sold",
+    "dealership": "MULTRON",
+    "address": "199 Mermaid Avenue, Lavalette, Nevada, 431",
+    "registrationDate": "2024-05-15T06:29:59 +05:00",
+    "latitude": -72.357698,
+    "longitude": -139.508389,
+    "tags": [
+      "est",
+      "ad",
+      "sunt"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Carole Hughes",
+        "purchaseDate": "2018-08-06",
+        "contact": "+1 (832) 438-2046"
+      },
+      {
+        "id": 1,
+        "name": "Lori Kirk",
+        "purchaseDate": "2022-01-03",
+        "contact": "+1 (866) 414-2841"
+      }
+    ],
+    "greeting": "Hello, interested in the Honda laboris? We have great offers waiting for you!",
+    "popularAccessory": "cover"
+  },
+  {
+    "guid": "0ccd9e77-c977-42f9-84fa-5f461b68e529",
+    "isActive": false,
+    "price": "$13,671.25",
+    "picture": "http://placehold.it/64x64",
+    "make": "BMW",
+    "model": "incididunt",
+    "year": 2022,
+    "mileage": 43205,
+    "color": "white",
+    "engineType": "parallel-twin",
+    "displacement": "333 cc",
+    "transmission": "manual",
+    "status": "sold",
+    "dealership": "NETPLODE",
+    "address": "821 Leonora Court, Sedley, Wyoming, 2189",
+    "registrationDate": "2019-10-21T07:31:37 +05:00",
+    "latitude": -65.05336,
+    "longitude": 47.074277,
+    "tags": [
+      "voluptate",
+      "nulla",
+      "nisi",
+      "nulla",
+      "nulla"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Simone Juarez",
+        "purchaseDate": "2018-12-06",
+        "contact": "+1 (929) 511-2700"
+      },
+      {
+        "id": 1,
+        "name": "Fay Fisher",
+        "purchaseDate": "2017-01-02",
+        "contact": "+1 (894) 491-2990"
+      }
+    ],
+    "greeting": "Hello, interested in the BMW incididunt? We have great offers waiting for you!",
+    "popularAccessory": "gloves"
+  },
+  {
+    "guid": "944b1ddb-f642-40da-b0f0-7eb41843852b",
+    "isActive": false,
+    "price": "$3,368.69",
+    "picture": "http://placehold.it/64x64",
+    "make": "Harley-Davidson",
+    "model": "est",
+    "year": 2015,
+    "mileage": 35159,
+    "color": "red",
+    "engineType": "boxer",
+    "displacement": "507 cc",
+    "transmission": "automatic",
+    "status": "available",
+    "dealership": "MEDMEX",
+    "address": "990 Tompkins Avenue, Deercroft, Tennessee, 9518",
+    "registrationDate": "2019-12-24T05:21:54 +05:00",
+    "latitude": 0.381728,
+    "longitude": -117.713227,
+    "tags": [
+      "reprehenderit",
+      "aute",
+      "aute",
+      "Lorem"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Lara Witt",
+        "purchaseDate": "2015-02-11",
+        "contact": "+1 (825) 547-2497"
+      },
+      {
+        "id": 1,
+        "name": "Holland Bentley",
+        "purchaseDate": "2019-12-28",
+        "contact": "+1 (862) 457-3166"
+      },
+      {
+        "id": 2,
+        "name": "Helena Heath",
+        "purchaseDate": "2019-07-24",
+        "contact": "+1 (953) 522-2662"
+      }
+    ],
+    "greeting": "Hello, interested in the Harley-Davidson est? We have great offers waiting for you!",
+    "popularAccessory": "jacket"
+  },
+  {
+    "guid": "cd222a3a-2711-4c0a-be25-e045f3dbe72f",
+    "isActive": false,
+    "price": "$8,203.44",
+    "picture": "http://placehold.it/64x64",
+    "make": "Harley-Davidson",
+    "model": "voluptate",
+    "year": 2022,
+    "mileage": 14767,
+    "color": "yellow",
+    "engineType": "inline-four",
+    "displacement": "236 cc",
+    "transmission": "automatic",
+    "status": "reserved",
+    "dealership": "KROG",
+    "address": "473 Ashland Place, Matheny, Mississippi, 6793",
+    "registrationDate": "2024-10-12T10:41:16 +05:00",
+    "latitude": -76.965211,
+    "longitude": -148.057167,
+    "tags": [
+      "culpa",
+      "enim",
+      "Lorem"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Rita Fuller",
+        "purchaseDate": "2016-09-25",
+        "contact": "+1 (802) 418-3353"
+      },
+      {
+        "id": 1,
+        "name": "Lessie Beard",
+        "purchaseDate": "2016-01-06",
+        "contact": "+1 (959) 558-3125"
+      }
+    ],
+    "greeting": "Hello, interested in the Harley-Davidson voluptate? We have great offers waiting for you!",
+    "popularAccessory": "cover"
+  },
+  {
+    "guid": "3d6f87eb-0b06-4e50-b0de-71da2e2150d1",
+    "isActive": true,
+    "price": "$3,709.46",
+    "picture": "http://placehold.it/64x64",
+    "make": "Kawasaki",
+    "model": "laborum",
+    "year": 2015,
+    "mileage": 42906,
+    "color": "yellow",
+    "engineType": "inline-four",
+    "displacement": "255 cc",
+    "transmission": "automatic",
+    "status": "reserved",
+    "dealership": "SAVVY",
+    "address": "466 Emerson Place, Nicut, Montana, 7768",
+    "registrationDate": "2013-10-16T12:45:07 +05:00",
+    "latitude": 74.030759,
+    "longitude": 26.087003,
+    "tags": [
+      "minim",
+      "elit",
+      "magna",
+      "nostrud"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Aida Turner",
+        "purchaseDate": "2020-02-26",
+        "contact": "+1 (819) 404-3050"
+      }
+    ],
+    "greeting": "Hello, interested in the Kawasaki laborum? We have great offers waiting for you!",
+    "popularAccessory": "jacket"
+  },
+  {
+    "guid": "27a5cd20-eb84-48d3-b046-96ccac3ade9e",
+    "isActive": false,
+    "price": "$8,515.61",
+    "picture": "http://placehold.it/64x64",
+    "make": "Ducati",
+    "model": "excepteur",
+    "year": 2018,
+    "mileage": 7307,
+    "color": "blue",
+    "engineType": "inline-four",
+    "displacement": "1125 cc",
+    "transmission": "automatic",
+    "status": "sold",
+    "dealership": "KEGULAR",
+    "address": "912 Louis Place, Rodanthe, New Jersey, 6380",
+    "registrationDate": "2018-12-09T07:38:44 +05:00",
+    "latitude": 14.004664,
+    "longitude": -137.481749,
+    "tags": [
+      "culpa",
+      "proident",
+      "dolor"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Jami Massey",
+        "purchaseDate": "2020-07-20",
+        "contact": "+1 (892) 507-3368"
+      }
+    ],
+    "greeting": "Hello, interested in the Ducati excepteur? We have great offers waiting for you!",
+    "popularAccessory": "jacket"
+  },
+  {
+    "guid": "0469795f-92fa-46bf-8709-79c7d6fcdff6",
+    "isActive": false,
+    "price": "$5,789.03",
+    "picture": "http://placehold.it/64x64",
+    "make": "Honda",
+    "model": "et",
+    "year": 2019,
+    "mileage": 3499,
+    "color": "white",
+    "engineType": "single-cylinder",
+    "displacement": "686 cc",
+    "transmission": "manual",
+    "status": "available",
+    "dealership": "TELEPARK",
+    "address": "280 Woodruff Avenue, Richford, Ohio, 4885",
+    "registrationDate": "2021-07-18T12:56:31 +05:00",
+    "latitude": 23.488149,
+    "longitude": 129.917739,
+    "tags": [
+      "adipisicing",
+      "consectetur",
+      "aute",
+      "ea"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Tamara Owen",
+        "purchaseDate": "2021-12-29",
+        "contact": "+1 (939) 488-3231"
+      },
+      {
+        "id": 1,
+        "name": "Alexandria Wolf",
+        "purchaseDate": "2015-04-13",
+        "contact": "+1 (934) 426-2772"
+      },
+      {
+        "id": 2,
+        "name": "Elva Hurley",
+        "purchaseDate": "2021-07-30",
+        "contact": "+1 (810) 441-2718"
+      }
+    ],
+    "greeting": "Hello, interested in the Honda et? We have great offers waiting for you!",
+    "popularAccessory": "gloves"
+  },
+  {
+    "guid": "3492337f-53ca-47ce-a980-7fa7e1deec99",
+    "isActive": true,
+    "price": "$12,533.32",
+    "picture": "http://placehold.it/64x64",
+    "make": "BMW",
+    "model": "Lorem",
+    "year": 2010,
+    "mileage": 17454,
+    "color": "black",
+    "engineType": "parallel-twin",
+    "displacement": "661 cc",
+    "transmission": "manual",
+    "status": "available",
+    "dealership": "BYTREX",
+    "address": "114 Paerdegat Avenue, Vaughn, Washington, 7609",
+    "registrationDate": "2021-10-14T08:36:20 +05:00",
+    "latitude": -45.693744,
+    "longitude": 22.185622,
+    "tags": [
+      "occaecat",
+      "cillum",
+      "voluptate"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Emilia Herrera",
+        "purchaseDate": "2019-05-23",
+        "contact": "+1 (993) 596-2532"
+      },
+      {
+        "id": 1,
+        "name": "Moran Lawson",
+        "purchaseDate": "2022-01-06",
+        "contact": "+1 (871) 582-2934"
+      }
+    ],
+    "greeting": "Hello, interested in the BMW Lorem? We have great offers waiting for you!",
+    "popularAccessory": "helmet"
+  },
+  {
+    "guid": "049f783f-b72d-4323-b0ea-d96111666b5d",
+    "isActive": true,
+    "price": "$6,102.54",
+    "picture": "http://placehold.it/64x64",
+    "make": "BMW",
+    "model": "id",
+    "year": 2022,
+    "mileage": 41450,
+    "color": "gray",
+    "engineType": "V-twin",
+    "displacement": "676 cc",
+    "transmission": "automatic",
+    "status": "reserved",
+    "dealership": "PULZE",
+    "address": "994 Lefferts Avenue, Greensburg, Guam, 1106",
+    "registrationDate": "2019-03-30T03:47:50 +05:00",
+    "latitude": -50.048933,
+    "longitude": -27.714353,
+    "tags": [
+      "laborum",
+      "nostrud",
+      "do"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Neal Burch",
+        "purchaseDate": "2016-07-15",
+        "contact": "+1 (936) 466-2605"
+      },
+      {
+        "id": 1,
+        "name": "Dorsey Chaney",
+        "purchaseDate": "2020-08-21",
+        "contact": "+1 (995) 508-2326"
+      },
+      {
+        "id": 2,
+        "name": "Hunt Bryant",
+        "purchaseDate": "2018-10-07",
+        "contact": "+1 (936) 488-2000"
+      }
+    ],
+    "greeting": "Hello, interested in the BMW id? We have great offers waiting for you!",
+    "popularAccessory": "helmet"
+  },
+  {
+    "guid": "58991fe2-d26d-4fed-9b6f-3e99ad22ab4b",
+    "isActive": true,
+    "price": "$13,683.31",
+    "picture": "http://placehold.it/64x64",
+    "make": "Yamaha",
+    "model": "Lorem",
+    "year": 2013,
+    "mileage": 49853,
+    "color": "white",
+    "engineType": "inline-four",
+    "displacement": "1068 cc",
+    "transmission": "manual",
+    "status": "sold",
+    "dealership": "BUGSALL",
+    "address": "458 Prospect Place, Avalon, Palau, 8863",
+    "registrationDate": "2016-12-07T10:21:58 +05:00",
+    "latitude": -34.672255,
+    "longitude": -152.146219,
+    "tags": [
+      "et",
+      "deserunt",
+      "nisi"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Keith Vaughan",
+        "purchaseDate": "2019-11-25",
+        "contact": "+1 (960) 459-2525"
+      },
+      {
+        "id": 1,
+        "name": "Elisabeth Ellis",
+        "purchaseDate": "2022-05-02",
+        "contact": "+1 (962) 475-2670"
+      },
+      {
+        "id": 2,
+        "name": "Millie Farley",
+        "purchaseDate": "2020-03-04",
+        "contact": "+1 (981) 600-3373"
+      }
+    ],
+    "greeting": "Hello, interested in the Yamaha Lorem? We have great offers waiting for you!",
+    "popularAccessory": "gloves"
+  },
+  {
+    "guid": "d5255d8b-5a9a-45d9-b395-bce2560728f7",
+    "isActive": true,
+    "price": "$10,626.45",
+    "picture": "http://placehold.it/64x64",
+    "make": "BMW",
+    "model": "mollit",
+    "year": 2015,
+    "mileage": 2563,
+    "color": "blue",
+    "engineType": "single-cylinder",
+    "displacement": "505 cc",
+    "transmission": "manual",
+    "status": "sold",
+    "dealership": "PHOLIO",
+    "address": "954 Garden Place, Waumandee, New York, 403",
+    "registrationDate": "2014-06-07T10:37:42 +05:00",
+    "latitude": 62.043219,
+    "longitude": -96.367064,
+    "tags": [
+      "exercitation",
+      "excepteur",
+      "enim"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Dixon Brewer",
+        "purchaseDate": "2020-03-06",
+        "contact": "+1 (926) 573-3057"
+      },
+      {
+        "id": 1,
+        "name": "Minnie Camacho",
+        "purchaseDate": "2021-03-15",
+        "contact": "+1 (937) 458-2079"
+      },
+      {
+        "id": 2,
+        "name": "Compton Trujillo",
+        "purchaseDate": "2016-05-25",
+        "contact": "+1 (994) 517-3829"
+      }
+    ],
+    "greeting": "Hello, interested in the BMW mollit? We have great offers waiting for you!",
+    "popularAccessory": "cover"
+  },
+  {
+    "guid": "c5c39241-66ca-4fc4-8c13-ca1306f554ae",
+    "isActive": false,
+    "price": "$7,911.54",
+    "picture": "http://placehold.it/64x64",
+    "make": "Harley-Davidson",
+    "model": "elit",
+    "year": 2012,
+    "mileage": 12547,
+    "color": "red",
+    "engineType": "single-cylinder",
+    "displacement": "1068 cc",
+    "transmission": "manual",
+    "status": "sold",
+    "dealership": "XIIX",
+    "address": "259 Norman Avenue, Chelsea, New Hampshire, 6039",
+    "registrationDate": "2014-05-13T01:28:45 +05:00",
+    "latitude": 89.435582,
+    "longitude": -124.797283,
+    "tags": [
+      "ad",
+      "labore",
+      "cupidatat",
+      "commodo"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Wilkins Mcintyre",
+        "purchaseDate": "2021-07-13",
+        "contact": "+1 (848) 600-3366"
+      },
+      {
+        "id": 1,
+        "name": "Vargas Warren",
+        "purchaseDate": "2020-09-05",
+        "contact": "+1 (877) 490-3567"
+      },
+      {
+        "id": 2,
+        "name": "Ramirez Harrell",
+        "purchaseDate": "2021-07-20",
+        "contact": "+1 (943) 576-3092"
+      }
+    ],
+    "greeting": "Hello, interested in the Harley-Davidson elit? We have great offers waiting for you!",
+    "popularAccessory": "gloves"
+  },
+  {
+    "guid": "28397297-6f2d-4c54-95d6-1a6d3e2ca60d",
+    "isActive": false,
+    "price": "$6,968.09",
+    "picture": "http://placehold.it/64x64",
+    "make": "Honda",
+    "model": "labore",
+    "year": 2012,
+    "mileage": 30224,
+    "color": "blue",
+    "engineType": "inline-four",
+    "displacement": "706 cc",
+    "transmission": "manual",
+    "status": "available",
+    "dealership": "XPLOR",
+    "address": "281 Fayette Street, Odessa, Pennsylvania, 3800",
+    "registrationDate": "2013-12-21T03:51:49 +05:00",
+    "latitude": 28.636513,
+    "longitude": 93.219156,
+    "tags": [
+      "enim",
+      "quis",
+      "fugiat",
+      "consectetur",
+      "occaecat"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Abbott Rosario",
+        "purchaseDate": "2015-01-09",
+        "contact": "+1 (992) 579-2711"
+      }
+    ],
+    "greeting": "Hello, interested in the Honda labore? We have great offers waiting for you!",
+    "popularAccessory": "gloves"
+  },
+  {
+    "guid": "406eae36-bb9f-4fbc-a989-085490abd7f3",
+    "isActive": false,
+    "price": "$4,460.33",
+    "picture": "http://placehold.it/64x64",
+    "make": "Honda",
+    "model": "commodo",
+    "year": 2010,
+    "mileage": 17611,
+    "color": "gray",
+    "engineType": "single-cylinder",
+    "displacement": "666 cc",
+    "transmission": "automatic",
+    "status": "available",
+    "dealership": "TALAE",
+    "address": "142 Seeley Street, Tuttle, Connecticut, 6233",
+    "registrationDate": "2019-10-11T04:49:23 +05:00",
+    "latitude": -73.303827,
+    "longitude": -54.712391,
+    "tags": [
+      "cupidatat",
+      "nostrud",
+      "in"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Hunter Mcdowell",
+        "purchaseDate": "2018-07-27",
+        "contact": "+1 (832) 484-2370"
+      },
+      {
+        "id": 1,
+        "name": "Murphy Mcdonald",
+        "purchaseDate": "2021-10-05",
+        "contact": "+1 (857) 508-3952"
+      }
+    ],
+    "greeting": "Hello, interested in the Honda commodo? We have great offers waiting for you!",
+    "popularAccessory": "cover"
+  },
+  {
+    "guid": "c2155c17-926e-4eaa-9b98-bb38d7204c83",
+    "isActive": true,
+    "price": "$3,725.03",
+    "picture": "http://placehold.it/64x64",
+    "make": "Kawasaki",
+    "model": "anim",
+    "year": 2012,
+    "mileage": 3037,
+    "color": "gray",
+    "engineType": "V-twin",
+    "displacement": "1111 cc",
+    "transmission": "automatic",
+    "status": "reserved",
+    "dealership": "PROTODYNE",
+    "address": "766 Moore Street, Rockbridge, California, 6536",
+    "registrationDate": "2019-08-21T04:10:25 +05:00",
+    "latitude": -63.768702,
+    "longitude": -122.152921,
+    "tags": [
+      "dolore",
+      "nisi",
+      "aute",
+      "dolor",
+      "est"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Jane Hancock",
+        "purchaseDate": "2022-12-02",
+        "contact": "+1 (841) 523-3478"
+      },
+      {
+        "id": 1,
+        "name": "Salas Mcconnell",
+        "purchaseDate": "2020-04-23",
+        "contact": "+1 (912) 540-2258"
+      }
+    ],
+    "greeting": "Hello, interested in the Kawasaki anim? We have great offers waiting for you!",
+    "popularAccessory": "jacket"
+  },
+  {
+    "guid": "1e325ce3-61d8-48e2-8e5e-1432cd4093bc",
+    "isActive": true,
+    "price": "$14,855.53",
+    "picture": "http://placehold.it/64x64",
+    "make": "BMW",
+    "model": "sunt",
+    "year": 2019,
+    "mileage": 32208,
+    "color": "black",
+    "engineType": "boxer",
+    "displacement": "924 cc",
+    "transmission": "automatic",
+    "status": "available",
+    "dealership": "KOG",
+    "address": "335 Grand Street, Winesburg, North Carolina, 5065",
+    "registrationDate": "2016-02-05T12:20:05 +05:00",
+    "latitude": 85.708081,
+    "longitude": 143.908259,
+    "tags": [
+      "id",
+      "consequat",
+      "exercitation",
+      "sint",
+      "enim"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Joyce Payne",
+        "purchaseDate": "2020-01-17",
+        "contact": "+1 (852) 460-3137"
+      },
+      {
+        "id": 1,
+        "name": "Lenora Schwartz",
+        "purchaseDate": "2020-09-24",
+        "contact": "+1 (813) 584-3044"
+      }
+    ],
+    "greeting": "Hello, interested in the BMW sunt? We have great offers waiting for you!",
+    "popularAccessory": "jacket"
+  },
+  {
+    "guid": "e67bc2a4-7ca9-4f47-81aa-f8942af83340",
+    "isActive": false,
+    "price": "$4,565.02",
+    "picture": "http://placehold.it/64x64",
+    "make": "Kawasaki",
+    "model": "dolor",
+    "year": 2017,
+    "mileage": 37325,
+    "color": "red",
+    "engineType": "boxer",
+    "displacement": "772 cc",
+    "transmission": "manual",
+    "status": "available",
+    "dealership": "BLEEKO",
+    "address": "112 Wyckoff Street, Chesterfield, South Carolina, 1210",
+    "registrationDate": "2023-02-01T08:16:02 +05:00",
+    "latitude": -11.870008,
+    "longitude": -151.435436,
+    "tags": [
+      "ut",
+      "nisi",
+      "reprehenderit",
+      "id",
+      "eiusmod"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Stacy Grant",
+        "purchaseDate": "2017-01-07",
+        "contact": "+1 (916) 508-2531"
+      },
+      {
+        "id": 1,
+        "name": "Renee Mccarthy",
+        "purchaseDate": "2015-01-24",
+        "contact": "+1 (913) 533-3519"
+      }
+    ],
+    "greeting": "Hello, interested in the Kawasaki dolor? We have great offers waiting for you!",
+    "popularAccessory": "gloves"
+  },
+  {
+    "guid": "7c0ef377-accb-4179-b726-d25bbce9e7e9",
+    "isActive": false,
+    "price": "$12,346.12",
+    "picture": "http://placehold.it/64x64",
+    "make": "Ducati",
+    "model": "reprehenderit",
+    "year": 2014,
+    "mileage": 7248,
+    "color": "yellow",
+    "engineType": "single-cylinder",
+    "displacement": "803 cc",
+    "transmission": "manual",
+    "status": "reserved",
+    "dealership": "SHADEASE",
+    "address": "455 Hooper Street, Fedora, Florida, 1939",
+    "registrationDate": "2016-07-02T11:42:02 +05:00",
+    "latitude": -26.446601,
+    "longitude": -158.879205,
+    "tags": [
+      "exercitation",
+      "exercitation",
+      "id"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Misty Huber",
+        "purchaseDate": "2015-03-25",
+        "contact": "+1 (832) 538-3014"
+      },
+      {
+        "id": 1,
+        "name": "Hodge Carpenter",
+        "purchaseDate": "2022-04-27",
+        "contact": "+1 (848) 425-3557"
+      }
+    ],
+    "greeting": "Hello, interested in the Ducati reprehenderit? We have great offers waiting for you!",
+    "popularAccessory": "helmet"
+  },
+  {
+    "guid": "968c14b7-8fb3-405c-9880-2905539e26ae",
+    "isActive": true,
+    "price": "$12,519.31",
+    "picture": "http://placehold.it/64x64",
+    "make": "BMW",
+    "model": "fugiat",
+    "year": 2010,
+    "mileage": 36562,
+    "color": "red",
+    "engineType": "boxer",
+    "displacement": "1138 cc",
+    "transmission": "automatic",
+    "status": "reserved",
+    "dealership": "ZILLANET",
+    "address": "575 Applegate Court, Kaka, Federated States Of Micronesia, 3035",
+    "registrationDate": "2014-03-12T04:35:15 +05:00",
+    "latitude": 84.688497,
+    "longitude": 40.421455,
+    "tags": [
+      "dolor",
+      "laborum",
+      "eu",
+      "ut"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Foreman Middleton",
+        "purchaseDate": "2020-03-11",
+        "contact": "+1 (952) 570-3600"
+      }
+    ],
+    "greeting": "Hello, interested in the BMW fugiat? We have great offers waiting for you!",
+    "popularAccessory": "helmet"
+  },
+  {
+    "guid": "85e9fb0e-d769-486f-843b-d8d4fe99751e",
+    "isActive": true,
+    "price": "$10,768.42",
+    "picture": "http://placehold.it/64x64",
+    "make": "BMW",
+    "model": "dolore",
+    "year": 2013,
+    "mileage": 18422,
+    "color": "gray",
+    "engineType": "parallel-twin",
+    "displacement": "749 cc",
+    "transmission": "automatic",
+    "status": "available",
+    "dealership": "DELPHIDE",
+    "address": "869 Herkimer Place, Nogal, Virginia, 5855",
+    "registrationDate": "2010-11-17T06:16:20 +05:00",
+    "latitude": -77.931465,
+    "longitude": 139.533877,
+    "tags": [
+      "esse",
+      "fugiat",
+      "magna",
+      "eiusmod",
+      "reprehenderit"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Sheri Ayala",
+        "purchaseDate": "2015-12-21",
+        "contact": "+1 (878) 557-3303"
+      },
+      {
+        "id": 1,
+        "name": "Dillard Nieves",
+        "purchaseDate": "2015-07-20",
+        "contact": "+1 (891) 517-3721"
+      },
+      {
+        "id": 2,
+        "name": "Bernadine Armstrong",
+        "purchaseDate": "2020-04-04",
+        "contact": "+1 (898) 550-3083"
+      }
+    ],
+    "greeting": "Hello, interested in the BMW dolore? We have great offers waiting for you!",
+    "popularAccessory": "cover"
+  },
+  {
+    "guid": "5db8738f-9bb3-4fcc-9caf-a2d8ecf1229d",
+    "isActive": true,
+    "price": "$7,605.13",
+    "picture": "http://placehold.it/64x64",
+    "make": "Ducati",
+    "model": "est",
+    "year": 2017,
+    "mileage": 36184,
+    "color": "white",
+    "engineType": "V-twin",
+    "displacement": "483 cc",
+    "transmission": "automatic",
+    "status": "reserved",
+    "dealership": "SOLAREN",
+    "address": "283 Truxton Street, Yardville, South Dakota, 3601",
+    "registrationDate": "2010-08-24T02:44:28 +05:00",
+    "latitude": -72.762318,
+    "longitude": -75.161147,
+    "tags": [
+      "Lorem",
+      "in",
+      "ipsum",
+      "aliqua",
+      "esse"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Carey Newman",
+        "purchaseDate": "2022-05-02",
+        "contact": "+1 (921) 441-2458"
+      },
+      {
+        "id": 1,
+        "name": "Bryant Allison",
+        "purchaseDate": "2018-01-06",
+        "contact": "+1 (855) 514-2157"
+      },
+      {
+        "id": 2,
+        "name": "Joni Kerr",
+        "purchaseDate": "2020-05-05",
+        "contact": "+1 (927) 553-2589"
+      }
+    ],
+    "greeting": "Hello, interested in the Ducati est? We have great offers waiting for you!",
+    "popularAccessory": "helmet"
+  },
+  {
+    "guid": "e8c29f63-a8f4-49b4-b382-aa8fa57c70b8",
+    "isActive": true,
+    "price": "$5,449.00",
+    "picture": "http://placehold.it/64x64",
+    "make": "Kawasaki",
+    "model": "laboris",
+    "year": 2018,
+    "mileage": 4709,
+    "color": "gray",
+    "engineType": "boxer",
+    "displacement": "1196 cc",
+    "transmission": "automatic",
+    "status": "available",
+    "dealership": "ISOPOP",
+    "address": "670 Livingston Street, Dubois, Massachusetts, 748",
+    "registrationDate": "2014-04-25T01:58:16 +05:00",
+    "latitude": 56.5416,
+    "longitude": 127.634794,
+    "tags": [
+      "deserunt",
+      "ea",
+      "ipsum"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "White Lynch",
+        "purchaseDate": "2021-06-18",
+        "contact": "+1 (910) 414-3390"
+      },
+      {
+        "id": 1,
+        "name": "Velez Pollard",
+        "purchaseDate": "2018-12-19",
+        "contact": "+1 (932) 478-3475"
+      }
+    ],
+    "greeting": "Hello, interested in the Kawasaki laboris? We have great offers waiting for you!",
+    "popularAccessory": "gloves"
+  },
+  {
+    "guid": "4dcb6d45-5dbf-422f-83eb-17991b7723dc",
+    "isActive": true,
+    "price": "$8,357.28",
+    "picture": "http://placehold.it/64x64",
+    "make": "BMW",
+    "model": "irure",
+    "year": 2015,
+    "mileage": 27047,
+    "color": "red",
+    "engineType": "single-cylinder",
+    "displacement": "286 cc",
+    "transmission": "manual",
+    "status": "available",
+    "dealership": "TINGLES",
+    "address": "388 Dewey Place, Ventress, Missouri, 9501",
+    "registrationDate": "2021-11-23T05:18:20 +05:00",
+    "latitude": -67.436613,
+    "longitude": 106.551168,
+    "tags": [
+      "Lorem",
+      "incididunt",
+      "ex"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Carter Hayden",
+        "purchaseDate": "2015-12-22",
+        "contact": "+1 (864) 463-3739"
+      }
+    ],
+    "greeting": "Hello, interested in the BMW irure? We have great offers waiting for you!",
+    "popularAccessory": "gloves"
+  },
+  {
+    "guid": "700f8b4a-bee9-453d-bf93-d12d18c8c67a",
+    "isActive": false,
+    "price": "$6,598.86",
+    "picture": "http://placehold.it/64x64",
+    "make": "Ducati",
+    "model": "sit",
+    "year": 2022,
+    "mileage": 26608,
+    "color": "white",
+    "engineType": "boxer",
+    "displacement": "963 cc",
+    "transmission": "automatic",
+    "status": "sold",
+    "dealership": "ZAGGLES",
+    "address": "342 Clinton Street, Babb, Puerto Rico, 5540",
+    "registrationDate": "2014-02-03T11:15:15 +05:00",
+    "latitude": 38.488744,
+    "longitude": 9.909731,
+    "tags": [
+      "dolor",
+      "ut",
+      "sit",
+      "dolore",
+      "elit"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Mcneil Kennedy",
+        "purchaseDate": "2022-06-21",
+        "contact": "+1 (896) 577-3420"
+      }
+    ],
+    "greeting": "Hello, interested in the Ducati sit? We have great offers waiting for you!",
+    "popularAccessory": "cover"
+  },
+  {
+    "guid": "0035f155-d13c-4aaf-9674-acb8a332f96c",
+    "isActive": true,
+    "price": "$5,243.44",
+    "picture": "http://placehold.it/64x64",
+    "make": "Honda",
+    "model": "nulla",
+    "year": 2018,
+    "mileage": 1323,
+    "color": "yellow",
+    "engineType": "inline-four",
+    "displacement": "824 cc",
+    "transmission": "manual",
+    "status": "available",
+    "dealership": "EYEWAX",
+    "address": "401 Howard Avenue, National, Northern Mariana Islands, 6924",
+    "registrationDate": "2024-06-15T09:06:04 +05:00",
+    "latitude": -2.792369,
+    "longitude": -27.311458,
+    "tags": [
+      "id",
+      "eu",
+      "quis"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Nancy Macias",
+        "purchaseDate": "2020-09-26",
+        "contact": "+1 (989) 436-3391"
+      },
+      {
+        "id": 1,
+        "name": "Patrica Olsen",
+        "purchaseDate": "2018-11-07",
+        "contact": "+1 (835) 474-3901"
+      }
+    ],
+    "greeting": "Hello, interested in the Honda nulla? We have great offers waiting for you!",
+    "popularAccessory": "gloves"
+  },
+  {
+    "guid": "1c70920f-c108-4970-ada7-6162460e089a",
+    "isActive": false,
+    "price": "$5,088.97",
+    "picture": "http://placehold.it/64x64",
+    "make": "Honda",
+    "model": "labore",
+    "year": 2019,
+    "mileage": 40136,
+    "color": "white",
+    "engineType": "parallel-twin",
+    "displacement": "1007 cc",
+    "transmission": "manual",
+    "status": "available",
+    "dealership": "LOVEPAD",
+    "address": "613 Linden Street, Garnet, Maine, 9985",
+    "registrationDate": "2019-09-10T06:46:42 +05:00",
+    "latitude": -27.481635,
+    "longitude": -141.632658,
+    "tags": [
+      "occaecat",
+      "irure",
+      "consequat",
+      "officia"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Alice Weber",
+        "purchaseDate": "2017-09-27",
+        "contact": "+1 (967) 549-3266"
+      }
+    ],
+    "greeting": "Hello, interested in the Honda labore? We have great offers waiting for you!",
+    "popularAccessory": "jacket"
+  },
+  {
+    "guid": "9e12b92e-36a4-47aa-ac2b-b875b4992f50",
+    "isActive": false,
+    "price": "$13,902.74",
+    "picture": "http://placehold.it/64x64",
+    "make": "Harley-Davidson",
+    "model": "Lorem",
+    "year": 2023,
+    "mileage": 8390,
+    "color": "yellow",
+    "engineType": "V-twin",
+    "displacement": "182 cc",
+    "transmission": "manual",
+    "status": "available",
+    "dealership": "ZILCH",
+    "address": "838 Lawton Street, Sardis, Illinois, 8975",
+    "registrationDate": "2019-08-09T08:40:32 +05:00",
+    "latitude": -81.569276,
+    "longitude": 2.372453,
+    "tags": [
+      "sunt",
+      "id",
+      "incididunt",
+      "tempor",
+      "excepteur"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Tisha Wilkerson",
+        "purchaseDate": "2018-05-07",
+        "contact": "+1 (877) 435-3000"
+      }
+    ],
+    "greeting": "Hello, interested in the Harley-Davidson Lorem? We have great offers waiting for you!",
+    "popularAccessory": "gloves"
+  },
+  {
+    "guid": "c1dc5a2c-8a57-4388-8066-80260cb9cfb4",
+    "isActive": true,
+    "price": "$10,227.27",
+    "picture": "http://placehold.it/64x64",
+    "make": "Kawasaki",
+    "model": "dolore",
+    "year": 2016,
+    "mileage": 49799,
+    "color": "black",
+    "engineType": "single-cylinder",
+    "displacement": "383 cc",
+    "transmission": "automatic",
+    "status": "reserved",
+    "dealership": "HOMETOWN",
+    "address": "520 Colby Court, Gambrills, Virgin Islands, 5204",
+    "registrationDate": "2013-07-25T07:36:43 +05:00",
+    "latitude": -6.330083,
+    "longitude": -63.913518,
+    "tags": [
+      "ad",
+      "id",
+      "nulla"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Hopper Elliott",
+        "purchaseDate": "2022-12-24",
+        "contact": "+1 (847) 444-2320"
+      }
+    ],
+    "greeting": "Hello, interested in the Kawasaki dolore? We have great offers waiting for you!",
+    "popularAccessory": "helmet"
+  },
+  {
+    "guid": "9793acaf-1784-4d4b-abec-f9509e821d43",
+    "isActive": false,
+    "price": "$11,669.57",
+    "picture": "http://placehold.it/64x64",
+    "make": "Yamaha",
+    "model": "esse",
+    "year": 2011,
+    "mileage": 29598,
+    "color": "blue",
+    "engineType": "boxer",
+    "displacement": "849 cc",
+    "transmission": "manual",
+    "status": "sold",
+    "dealership": "ELEMANTRA",
+    "address": "825 Butler Place, Albany, Georgia, 5588",
+    "registrationDate": "2023-08-30T11:07:12 +05:00",
+    "latitude": -10.159069,
+    "longitude": 114.771136,
+    "tags": [
+      "laboris",
+      "exercitation",
+      "amet"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Bonita Mills",
+        "purchaseDate": "2015-06-21",
+        "contact": "+1 (965) 430-3071"
+      },
+      {
+        "id": 1,
+        "name": "Lillian Fowler",
+        "purchaseDate": "2018-10-23",
+        "contact": "+1 (848) 430-2120"
+      }
+    ],
+    "greeting": "Hello, interested in the Yamaha esse? We have great offers waiting for you!",
+    "popularAccessory": "gloves"
+  },
+  {
+    "guid": "a48f7ec5-505e-40af-818a-f2a5f289fd3c",
+    "isActive": true,
+    "price": "$3,518.81",
+    "picture": "http://placehold.it/64x64",
+    "make": "Honda",
+    "model": "consequat",
+    "year": 2016,
+    "mileage": 3664,
+    "color": "blue",
+    "engineType": "V-twin",
+    "displacement": "585 cc",
+    "transmission": "manual",
+    "status": "available",
+    "dealership": "QUINEX",
+    "address": "961 Rutland Road, Windsor, Oklahoma, 8974",
+    "registrationDate": "2013-11-26T08:19:52 +05:00",
+    "latitude": -60.815559,
+    "longitude": -68.605494,
+    "tags": [
+      "nulla",
+      "ex",
+      "in",
+      "culpa",
+      "laboris"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Mann Reid",
+        "purchaseDate": "2016-01-09",
+        "contact": "+1 (990) 485-3313"
+      }
+    ],
+    "greeting": "Hello, interested in the Honda consequat? We have great offers waiting for you!",
+    "popularAccessory": "gloves"
+  },
+  {
+    "guid": "d8dad439-2fc3-4f26-88e9-64d1b78b5d78",
+    "isActive": true,
+    "price": "$6,746.32",
+    "picture": "http://placehold.it/64x64",
+    "make": "Yamaha",
+    "model": "ex",
+    "year": 2022,
+    "mileage": 14574,
+    "color": "gray",
+    "engineType": "V-twin",
+    "displacement": "699 cc",
+    "transmission": "manual",
+    "status": "sold",
+    "dealership": "CABLAM",
+    "address": "775 Hillel Place, Washington, Hawaii, 2704",
+    "registrationDate": "2018-11-22T01:51:13 +05:00",
+    "latitude": -79.403413,
+    "longitude": 123.248846,
+    "tags": [
+      "incididunt",
+      "cillum",
+      "reprehenderit",
+      "consequat"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Allyson Preston",
+        "purchaseDate": "2017-11-10",
+        "contact": "+1 (943) 478-3681"
+      }
+    ],
+    "greeting": "Hello, interested in the Yamaha ex? We have great offers waiting for you!",
+    "popularAccessory": "jacket"
+  },
+  {
+    "guid": "5a26fd80-c2bc-4ebb-a780-feae555f30e8",
+    "isActive": true,
+    "price": "$11,746.49",
+    "picture": "http://placehold.it/64x64",
+    "make": "BMW",
+    "model": "irure",
+    "year": 2014,
+    "mileage": 22733,
+    "color": "red",
+    "engineType": "boxer",
+    "displacement": "979 cc",
+    "transmission": "automatic",
+    "status": "available",
+    "dealership": "SHOPABOUT",
+    "address": "750 Holt Court, Canoochee, American Samoa, 394",
+    "registrationDate": "2011-10-12T01:17:21 +05:00",
+    "latitude": 41.4931,
+    "longitude": 105.045881,
+    "tags": [
+      "excepteur",
+      "nulla",
+      "non"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Brooks Bird",
+        "purchaseDate": "2021-10-01",
+        "contact": "+1 (936) 535-2483"
+      },
+      {
+        "id": 1,
+        "name": "Gloria Collier",
+        "purchaseDate": "2020-09-30",
+        "contact": "+1 (951) 550-3167"
+      }
+    ],
+    "greeting": "Hello, interested in the BMW irure? We have great offers waiting for you!",
+    "popularAccessory": "jacket"
+  },
+  {
+    "guid": "49813459-157f-46e8-8b96-68f656692190",
+    "isActive": true,
+    "price": "$12,420.14",
+    "picture": "http://placehold.it/64x64",
+    "make": "Honda",
+    "model": "aliqua",
+    "year": 2021,
+    "mileage": 46223,
+    "color": "white",
+    "engineType": "boxer",
+    "displacement": "1002 cc",
+    "transmission": "manual",
+    "status": "sold",
+    "dealership": "MOMENTIA",
+    "address": "480 Richards Street, Freelandville, West Virginia, 8133",
+    "registrationDate": "2012-04-04T10:36:28 +05:00",
+    "latitude": 60.97874,
+    "longitude": 55.139966,
+    "tags": [
+      "qui",
+      "cillum",
+      "cupidatat",
+      "amet"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Knight Booth",
+        "purchaseDate": "2019-08-20",
+        "contact": "+1 (821) 594-3532"
+      },
+      {
+        "id": 1,
+        "name": "Dixie Price",
+        "purchaseDate": "2019-02-02",
+        "contact": "+1 (836) 577-3472"
+      },
+      {
+        "id": 2,
+        "name": "Alberta Boyer",
+        "purchaseDate": "2020-10-06",
+        "contact": "+1 (996) 578-3816"
+      }
+    ],
+    "greeting": "Hello, interested in the Honda aliqua? We have great offers waiting for you!",
+    "popularAccessory": "helmet"
+  },
+  {
+    "guid": "63243d77-fe46-4a65-9650-96bc779e3b88",
+    "isActive": false,
+    "price": "$10,282.75",
+    "picture": "http://placehold.it/64x64",
+    "make": "BMW",
+    "model": "aute",
+    "year": 2021,
+    "mileage": 46931,
+    "color": "white",
+    "engineType": "parallel-twin",
+    "displacement": "236 cc",
+    "transmission": "automatic",
+    "status": "reserved",
+    "dealership": "OBONES",
+    "address": "871 Howard Alley, Clinton, Arkansas, 7077",
+    "registrationDate": "2022-07-19T08:27:50 +05:00",
+    "latitude": 21.982548,
+    "longitude": 107.06149,
+    "tags": [
+      "fugiat",
+      "pariatur",
+      "incididunt"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Jeanine Carr",
+        "purchaseDate": "2019-03-07",
+        "contact": "+1 (888) 425-3367"
+      },
+      {
+        "id": 1,
+        "name": "Meredith Huff",
+        "purchaseDate": "2015-04-11",
+        "contact": "+1 (884) 598-2301"
+      }
+    ],
+    "greeting": "Hello, interested in the BMW aute? We have great offers waiting for you!",
+    "popularAccessory": "helmet"
+  },
+  {
+    "guid": "ad25dc1b-2148-4259-8b78-df26a91ac1c9",
+    "isActive": false,
+    "price": "$4,135.44",
+    "picture": "http://placehold.it/64x64",
+    "make": "Harley-Davidson",
+    "model": "laboris",
+    "year": 2022,
+    "mileage": 48132,
+    "color": "yellow",
+    "engineType": "inline-four",
+    "displacement": "522 cc",
+    "transmission": "automatic",
+    "status": "available",
+    "dealership": "GEEKMOSIS",
+    "address": "852 Hudson Avenue, Takilma, Kansas, 9519",
+    "registrationDate": "2018-10-20T09:21:05 +05:00",
+    "latitude": -12.919535,
+    "longitude": 166.825292,
+    "tags": [
+      "amet",
+      "ea",
+      "eiusmod",
+      "ipsum",
+      "consequat"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Karyn Petty",
+        "purchaseDate": "2019-05-17",
+        "contact": "+1 (971) 438-3635"
+      },
+      {
+        "id": 1,
+        "name": "Michelle Duran",
+        "purchaseDate": "2021-05-17",
+        "contact": "+1 (993) 524-2004"
+      },
+      {
+        "id": 2,
+        "name": "Diana Garza",
+        "purchaseDate": "2020-10-24",
+        "contact": "+1 (819) 517-2709"
+      }
+    ],
+    "greeting": "Hello, interested in the Harley-Davidson laboris? We have great offers waiting for you!",
+    "popularAccessory": "jacket"
+  },
+  {
+    "guid": "0f922e58-cb76-4a0c-9810-cadaa25264da",
+    "isActive": false,
+    "price": "$10,038.81",
+    "picture": "http://placehold.it/64x64",
+    "make": "Harley-Davidson",
+    "model": "culpa",
+    "year": 2019,
+    "mileage": 20806,
+    "color": "gray",
+    "engineType": "V-twin",
+    "displacement": "676 cc",
+    "transmission": "manual",
+    "status": "available",
+    "dealership": "NETERIA",
+    "address": "734 Adelphi Street, Rote, Indiana, 2486",
+    "registrationDate": "2010-10-13T12:55:33 +05:00",
+    "latitude": -0.164381,
+    "longitude": -117.9044,
+    "tags": [
+      "occaecat",
+      "ullamco",
+      "qui",
+      "et"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Wilma Gallegos",
+        "purchaseDate": "2021-01-13",
+        "contact": "+1 (920) 464-2752"
+      },
+      {
+        "id": 1,
+        "name": "Morse Franklin",
+        "purchaseDate": "2015-10-25",
+        "contact": "+1 (805) 576-2779"
+      }
+    ],
+    "greeting": "Hello, interested in the Harley-Davidson culpa? We have great offers waiting for you!",
+    "popularAccessory": "jacket"
+  },
+  {
+    "guid": "f06adac9-8a94-4264-8496-7190655e7b83",
+    "isActive": false,
+    "price": "$12,428.90",
+    "picture": "http://placehold.it/64x64",
+    "make": "Yamaha",
+    "model": "aliqua",
+    "year": 2019,
+    "mileage": 4719,
+    "color": "black",
+    "engineType": "V-twin",
+    "displacement": "816 cc",
+    "transmission": "manual",
+    "status": "reserved",
+    "dealership": "BULLJUICE",
+    "address": "903 Troy Avenue, Savannah, Maryland, 4714",
+    "registrationDate": "2023-06-14T09:30:33 +05:00",
+    "latitude": -30.150288,
+    "longitude": -42.428735,
+    "tags": [
+      "dolor",
+      "ut",
+      "eiusmod"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Rosie Benson",
+        "purchaseDate": "2021-09-30",
+        "contact": "+1 (916) 524-3978"
+      },
+      {
+        "id": 1,
+        "name": "Randall Mooney",
+        "purchaseDate": "2019-05-27",
+        "contact": "+1 (800) 573-2926"
+      },
+      {
+        "id": 2,
+        "name": "Barron Bishop",
+        "purchaseDate": "2016-02-19",
+        "contact": "+1 (959) 569-2500"
+      }
+    ],
+    "greeting": "Hello, interested in the Yamaha aliqua? We have great offers waiting for you!",
+    "popularAccessory": "cover"
+  },
+  {
+    "guid": "ec846adc-35e8-41d7-a9cd-b6af15c749bb",
+    "isActive": true,
+    "price": "$3,033.21",
+    "picture": "http://placehold.it/64x64",
+    "make": "Honda",
+    "model": "cupidatat",
+    "year": 2010,
+    "mileage": 42164,
+    "color": "black",
+    "engineType": "parallel-twin",
+    "displacement": "595 cc",
+    "transmission": "manual",
+    "status": "available",
+    "dealership": "QUILCH",
+    "address": "677 Regent Place, Accoville, Wisconsin, 1799",
+    "registrationDate": "2010-11-12T12:40:33 +05:00",
+    "latitude": -36.708125,
+    "longitude": 0.621833,
+    "tags": [
+      "elit",
+      "ad",
+      "ea",
+      "Lorem",
+      "ut"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Katherine Sampson",
+        "purchaseDate": "2016-06-01",
+        "contact": "+1 (896) 568-3580"
+      }
+    ],
+    "greeting": "Hello, interested in the Honda cupidatat? We have great offers waiting for you!",
+    "popularAccessory": "cover"
+  },
+  {
+    "guid": "0f5253ae-45c7-43a6-b9fd-212105b66cfe",
+    "isActive": true,
+    "price": "$13,962.78",
+    "picture": "http://placehold.it/64x64",
+    "make": "BMW",
+    "model": "officia",
+    "year": 2014,
+    "mileage": 27502,
+    "color": "yellow",
+    "engineType": "boxer",
+    "displacement": "1121 cc",
+    "transmission": "manual",
+    "status": "available",
+    "dealership": "ISODRIVE",
+    "address": "142 Montague Street, Bethpage, Nebraska, 666",
+    "registrationDate": "2019-05-31T01:00:39 +05:00",
+    "latitude": -24.789557,
+    "longitude": -34.191402,
+    "tags": [
+      "aliqua",
+      "do",
+      "culpa",
+      "pariatur",
+      "id"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Mildred Richards",
+        "purchaseDate": "2015-12-26",
+        "contact": "+1 (946) 587-2697"
+      }
+    ],
+    "greeting": "Hello, interested in the BMW officia? We have great offers waiting for you!",
+    "popularAccessory": "helmet"
+  },
+  {
+    "guid": "398ee454-3ad2-4128-af66-81feacdcc345",
+    "isActive": false,
+    "price": "$3,818.42",
+    "picture": "http://placehold.it/64x64",
+    "make": "Kawasaki",
+    "model": "tempor",
+    "year": 2019,
+    "mileage": 7655,
+    "color": "black",
+    "engineType": "parallel-twin",
+    "displacement": "531 cc",
+    "transmission": "manual",
+    "status": "sold",
+    "dealership": "ACRODANCE",
+    "address": "318 Oakland Place, Riceville, Louisiana, 120",
+    "registrationDate": "2023-11-09T04:34:40 +05:00",
+    "latitude": -28.426144,
+    "longitude": -6.104762,
+    "tags": [
+      "minim",
+      "commodo",
+      "ullamco"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Mullen Conway",
+        "purchaseDate": "2020-04-21",
+        "contact": "+1 (843) 448-3996"
+      }
+    ],
+    "greeting": "Hello, interested in the Kawasaki tempor? We have great offers waiting for you!",
+    "popularAccessory": "jacket"
+  },
+  {
+    "guid": "54967129-069e-4c4d-9471-4a65d604a6ad",
+    "isActive": true,
+    "price": "$7,119.70",
+    "picture": "http://placehold.it/64x64",
+    "make": "Yamaha",
+    "model": "aliqua",
+    "year": 2023,
+    "mileage": 11068,
+    "color": "red",
+    "engineType": "inline-four",
+    "displacement": "1138 cc",
+    "transmission": "manual",
+    "status": "available",
+    "dealership": "ARTWORLDS",
+    "address": "131 Dahlgreen Place, Urie, New Mexico, 6187",
+    "registrationDate": "2012-10-14T07:53:28 +05:00",
+    "latitude": 23.703476,
+    "longitude": -169.095146,
+    "tags": [
+      "ipsum",
+      "irure",
+      "amet",
+      "ad"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Vega Pierce",
+        "purchaseDate": "2022-03-26",
+        "contact": "+1 (907) 479-2133"
+      }
+    ],
+    "greeting": "Hello, interested in the Yamaha aliqua? We have great offers waiting for you!",
+    "popularAccessory": "gloves"
+  },
+  {
+    "guid": "84513235-8132-44c8-879d-78a5a6074b91",
+    "isActive": false,
+    "price": "$11,921.95",
+    "picture": "http://placehold.it/64x64",
+    "make": "BMW",
+    "model": "enim",
+    "year": 2013,
+    "mileage": 34802,
+    "color": "white",
+    "engineType": "single-cylinder",
+    "displacement": "512 cc",
+    "transmission": "automatic",
+    "status": "reserved",
+    "dealership": "COREPAN",
+    "address": "166 Schenck Court, Torboy, Marshall Islands, 4060",
+    "registrationDate": "2023-01-15T07:05:15 +05:00",
+    "latitude": -26.040284,
+    "longitude": -68.25321,
+    "tags": [
+      "do",
+      "aliquip",
+      "amet",
+      "elit"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Mcintyre Snow",
+        "purchaseDate": "2019-08-02",
+        "contact": "+1 (865) 528-2820"
+      },
+      {
+        "id": 1,
+        "name": "Holloway Phillips",
+        "purchaseDate": "2021-09-12",
+        "contact": "+1 (938) 437-3655"
+      }
+    ],
+    "greeting": "Hello, interested in the BMW enim? We have great offers waiting for you!",
+    "popularAccessory": "gloves"
+  },
+  {
+    "guid": "74802c9e-2133-4ed0-9eb8-79f8af4c4d34",
+    "isActive": true,
+    "price": "$11,240.92",
+    "picture": "http://placehold.it/64x64",
+    "make": "Yamaha",
+    "model": "id",
+    "year": 2012,
+    "mileage": 2450,
+    "color": "red",
+    "engineType": "inline-four",
+    "displacement": "977 cc",
+    "transmission": "automatic",
+    "status": "available",
+    "dealership": "KIDGREASE",
+    "address": "364 Nixon Court, Shaft, Colorado, 881",
+    "registrationDate": "2013-12-02T06:09:40 +05:00",
+    "latitude": 3.206566,
+    "longitude": 171.560451,
+    "tags": [
+      "veniam",
+      "esse",
+      "est"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Laverne Solomon",
+        "purchaseDate": "2022-07-14",
+        "contact": "+1 (893) 401-2627"
+      },
+      {
+        "id": 1,
+        "name": "Lee Cortez",
+        "purchaseDate": "2016-02-27",
+        "contact": "+1 (976) 442-2298"
+      },
+      {
+        "id": 2,
+        "name": "Tanner Shields",
+        "purchaseDate": "2020-10-24",
+        "contact": "+1 (974) 434-2923"
+      }
+    ],
+    "greeting": "Hello, interested in the Yamaha id? We have great offers waiting for you!",
+    "popularAccessory": "helmet"
+  },
+  {
+    "guid": "c605063b-a8cf-43bf-ac21-dbe01e29aa86",
+    "isActive": false,
+    "price": "$5,973.07",
+    "picture": "http://placehold.it/64x64",
+    "make": "Kawasaki",
+    "model": "labore",
+    "year": 2014,
+    "mileage": 11391,
+    "color": "yellow",
+    "engineType": "boxer",
+    "displacement": "643 cc",
+    "transmission": "automatic",
+    "status": "available",
+    "dealership": "GRACKER",
+    "address": "560 Bethel Loop, Abrams, Oregon, 9878",
+    "registrationDate": "2019-09-13T09:10:29 +05:00",
+    "latitude": -44.284042,
+    "longitude": 120.185417,
+    "tags": [
+      "aute",
+      "consectetur",
+      "consectetur"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Rhoda Wheeler",
+        "purchaseDate": "2019-11-16",
+        "contact": "+1 (913) 479-2193"
+      },
+      {
+        "id": 1,
+        "name": "Foley Craig",
+        "purchaseDate": "2018-10-16",
+        "contact": "+1 (896) 439-2582"
+      }
+    ],
+    "greeting": "Hello, interested in the Kawasaki labore? We have great offers waiting for you!",
+    "popularAccessory": "helmet"
+  },
+  {
+    "guid": "bdf07676-e473-4c69-90d9-29a48c1cd5c0",
+    "isActive": false,
+    "price": "$12,428.58",
+    "picture": "http://placehold.it/64x64",
+    "make": "BMW",
+    "model": "ex",
+    "year": 2013,
+    "mileage": 14359,
+    "color": "yellow",
+    "engineType": "inline-four",
+    "displacement": "762 cc",
+    "transmission": "automatic",
+    "status": "available",
+    "dealership": "GENMY",
+    "address": "231 Fenimore Street, Dixonville, Alaska, 9663",
+    "registrationDate": "2022-12-08T02:07:10 +05:00",
+    "latitude": -71.567728,
+    "longitude": 6.348005,
+    "tags": [
+      "laborum",
+      "enim",
+      "aute",
+      "aute",
+      "ipsum"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Wilder Rutledge",
+        "purchaseDate": "2020-07-15",
+        "contact": "+1 (997) 415-3918"
+      }
+    ],
+    "greeting": "Hello, interested in the BMW ex? We have great offers waiting for you!",
+    "popularAccessory": "gloves"
+  },
+  {
+    "guid": "77fa0fb0-bdae-48d5-93fa-e754483f5d8c",
+    "isActive": false,
+    "price": "$14,474.62",
+    "picture": "http://placehold.it/64x64",
+    "make": "Kawasaki",
+    "model": "aliqua",
+    "year": 2010,
+    "mileage": 38431,
+    "color": "yellow",
+    "engineType": "parallel-twin",
+    "displacement": "232 cc",
+    "transmission": "manual",
+    "status": "sold",
+    "dealership": "SCENTY",
+    "address": "198 Hoyts Lane, Blanford, Iowa, 8675",
+    "registrationDate": "2023-12-10T10:51:15 +05:00",
+    "latitude": 27.964251,
+    "longitude": -56.533966,
+    "tags": [
+      "ut",
+      "id",
+      "ipsum"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Molina Walsh",
+        "purchaseDate": "2015-07-10",
+        "contact": "+1 (941) 524-2621"
+      }
+    ],
+    "greeting": "Hello, interested in the Kawasaki aliqua? We have great offers waiting for you!",
+    "popularAccessory": "cover"
+  },
+  {
+    "guid": "9d2d9957-3715-44bc-aec0-26b12a1c0c39",
+    "isActive": false,
+    "price": "$9,899.46",
+    "picture": "http://placehold.it/64x64",
+    "make": "Yamaha",
+    "model": "cillum",
+    "year": 2014,
+    "mileage": 48403,
+    "color": "yellow",
+    "engineType": "single-cylinder",
+    "displacement": "460 cc",
+    "transmission": "automatic",
+    "status": "available",
+    "dealership": "CODACT",
+    "address": "162 Rockaway Parkway, Ellerslie, Minnesota, 1502",
+    "registrationDate": "2016-05-08T08:02:42 +05:00",
+    "latitude": -72.555916,
+    "longitude": -42.154709,
+    "tags": [
+      "velit",
+      "sunt",
+      "pariatur"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Marva Mack",
+        "purchaseDate": "2018-04-05",
+        "contact": "+1 (881) 565-2806"
+      },
+      {
+        "id": 1,
+        "name": "Lacy Chavez",
+        "purchaseDate": "2022-04-04",
+        "contact": "+1 (936) 505-3630"
+      }
+    ],
+    "greeting": "Hello, interested in the Yamaha cillum? We have great offers waiting for you!",
+    "popularAccessory": "jacket"
+  },
+  {
+    "guid": "61ab31fa-7f7e-4453-bf5b-298431e13e9b",
+    "isActive": false,
+    "price": "$7,898.33",
+    "picture": "http://placehold.it/64x64",
+    "make": "Kawasaki",
+    "model": "qui",
+    "year": 2020,
+    "mileage": 25265,
+    "color": "black",
+    "engineType": "boxer",
+    "displacement": "866 cc",
+    "transmission": "automatic",
+    "status": "available",
+    "dealership": "CORECOM",
+    "address": "118 Plymouth Street, Walland, Michigan, 8433",
+    "registrationDate": "2012-10-26T07:27:03 +05:00",
+    "latitude": -33.793396,
+    "longitude": -38.430558,
+    "tags": [
+      "fugiat",
+      "ullamco",
+      "adipisicing"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Sosa Silva",
+        "purchaseDate": "2020-11-23",
+        "contact": "+1 (900) 439-3534"
+      },
+      {
+        "id": 1,
+        "name": "Nichole Washington",
+        "purchaseDate": "2019-01-09",
+        "contact": "+1 (908) 566-3942"
+      },
+      {
+        "id": 2,
+        "name": "Ophelia Noble",
+        "purchaseDate": "2022-02-03",
+        "contact": "+1 (803) 412-2784"
+      }
+    ],
+    "greeting": "Hello, interested in the Kawasaki qui? We have great offers waiting for you!",
+    "popularAccessory": "helmet"
+  },
+  {
+    "guid": "9254c73f-ee89-406e-a08d-de57a355da04",
+    "isActive": false,
+    "price": "$5,170.94",
+    "picture": "http://placehold.it/64x64",
+    "make": "Ducati",
+    "model": "deserunt",
+    "year": 2022,
+    "mileage": 5660,
+    "color": "red",
+    "engineType": "boxer",
+    "displacement": "836 cc",
+    "transmission": "automatic",
+    "status": "reserved",
+    "dealership": "STEELTAB",
+    "address": "676 Cypress Avenue, Caledonia, Rhode Island, 4127",
+    "registrationDate": "2012-05-14T02:23:23 +05:00",
+    "latitude": 26.349397,
+    "longitude": 130.664019,
+    "tags": [
+      "eiusmod",
+      "excepteur",
+      "excepteur",
+      "duis",
+      "do"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Mallory Kinney",
+        "purchaseDate": "2021-02-10",
+        "contact": "+1 (855) 459-2414"
+      }
+    ],
+    "greeting": "Hello, interested in the Ducati deserunt? We have great offers waiting for you!",
+    "popularAccessory": "cover"
+  },
+  {
+    "guid": "3bd2a9ca-a76a-4930-91b1-9dd46ed26799",
+    "isActive": false,
+    "price": "$5,141.54",
+    "picture": "http://placehold.it/64x64",
+    "make": "Kawasaki",
+    "model": "dolor",
+    "year": 2020,
+    "mileage": 31154,
+    "color": "blue",
+    "engineType": "inline-four",
+    "displacement": "1060 cc",
+    "transmission": "automatic",
+    "status": "available",
+    "dealership": "JASPER",
+    "address": "415 Evergreen Avenue, Sunwest, District Of Columbia, 5332",
+    "registrationDate": "2013-06-24T09:52:19 +05:00",
+    "latitude": -28.060716,
+    "longitude": -127.950758,
+    "tags": [
+      "tempor",
+      "ipsum",
+      "id",
+      "nostrud"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Sharp Reese",
+        "purchaseDate": "2016-03-17",
+        "contact": "+1 (983) 460-2079"
+      }
+    ],
+    "greeting": "Hello, interested in the Kawasaki dolor? We have great offers waiting for you!",
+    "popularAccessory": "gloves"
+  },
+  {
+    "guid": "1045e4be-cb3b-44e8-9304-19da11f3530c",
+    "isActive": true,
+    "price": "$7,985.28",
+    "picture": "http://placehold.it/64x64",
+    "make": "Ducati",
+    "model": "ipsum",
+    "year": 2019,
+    "mileage": 12507,
+    "color": "yellow",
+    "engineType": "inline-four",
+    "displacement": "523 cc",
+    "transmission": "automatic",
+    "status": "available",
+    "dealership": "KINDALOO",
+    "address": "307 Stryker Court, Tryon, Arizona, 8093",
+    "registrationDate": "2020-07-20T04:05:34 +05:00",
+    "latitude": 70.569212,
+    "longitude": -175.424311,
+    "tags": [
+      "aute",
+      "quis",
+      "velit",
+      "nisi"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Mia Boyd",
+        "purchaseDate": "2020-03-05",
+        "contact": "+1 (802) 540-3589"
+      }
+    ],
+    "greeting": "Hello, interested in the Ducati ipsum? We have great offers waiting for you!",
+    "popularAccessory": "cover"
+  },
+  {
+    "guid": "c4bb3308-3d58-4374-8444-148de221e8f0",
+    "isActive": false,
+    "price": "$7,952.62",
+    "picture": "http://placehold.it/64x64",
+    "make": "Honda",
+    "model": "irure",
+    "year": 2011,
+    "mileage": 38960,
+    "color": "gray",
+    "engineType": "V-twin",
+    "displacement": "425 cc",
+    "transmission": "automatic",
+    "status": "available",
+    "dealership": "EARTHPURE",
+    "address": "343 Hoyt Street, Kanauga, Kentucky, 2308",
+    "registrationDate": "2010-01-28T09:03:59 +05:00",
+    "latitude": 19.366979,
+    "longitude": -134.879893,
+    "tags": [
+      "sunt",
+      "excepteur",
+      "sit"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Valdez Guerrero",
+        "purchaseDate": "2017-10-06",
+        "contact": "+1 (973) 544-3608"
+      },
+      {
+        "id": 1,
+        "name": "Estella Randolph",
+        "purchaseDate": "2015-11-19",
+        "contact": "+1 (963) 525-3519"
+      }
+    ],
+    "greeting": "Hello, interested in the Honda irure? We have great offers waiting for you!",
+    "popularAccessory": "helmet"
+  },
+  {
+    "guid": "a756e787-d8f0-48dc-9967-aa426d4af298",
+    "isActive": true,
+    "price": "$4,282.59",
+    "picture": "http://placehold.it/64x64",
+    "make": "Harley-Davidson",
+    "model": "non",
+    "year": 2010,
+    "mileage": 26365,
+    "color": "yellow",
+    "engineType": "V-twin",
+    "displacement": "734 cc",
+    "transmission": "manual",
+    "status": "sold",
+    "dealership": "ASIMILINE",
+    "address": "280 Lacon Court, Ebro, Utah, 4442",
+    "registrationDate": "2013-05-13T01:27:11 +05:00",
+    "latitude": 0.881734,
+    "longitude": 5.784226,
+    "tags": [
+      "eiusmod",
+      "minim",
+      "cupidatat"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Evans Santos",
+        "purchaseDate": "2019-12-10",
+        "contact": "+1 (929) 490-3823"
+      },
+      {
+        "id": 1,
+        "name": "Deidre Gallagher",
+        "purchaseDate": "2022-08-10",
+        "contact": "+1 (983) 447-2962"
+      }
+    ],
+    "greeting": "Hello, interested in the Harley-Davidson non? We have great offers waiting for you!",
+    "popularAccessory": "helmet"
+  },
+  {
+    "guid": "638c76dc-9367-4406-9b81-0bcada0cd225",
+    "isActive": false,
+    "price": "$13,502.17",
+    "picture": "http://placehold.it/64x64",
+    "make": "Kawasaki",
+    "model": "mollit",
+    "year": 2022,
+    "mileage": 28875,
+    "color": "red",
+    "engineType": "inline-four",
+    "displacement": "202 cc",
+    "transmission": "manual",
+    "status": "sold",
+    "dealership": "PLASMOSIS",
+    "address": "348 Milford Street, Lopezo, Texas, 212",
+    "registrationDate": "2022-09-13T07:46:41 +05:00",
+    "latitude": 84.184203,
+    "longitude": -95.815241,
+    "tags": [
+      "voluptate",
+      "anim",
+      "commodo",
+      "proident"
+    ],
+    "previousOwners": [
+      {
+        "id": 0,
+        "name": "Hopkins Holland",
+        "purchaseDate": "2018-11-23",
+        "contact": "+1 (936) 510-3504"
+      }
+    ],
+    "greeting": "Hello, interested in the Kawasaki mollit? We have great offers waiting for you!",
+    "popularAccessory": "jacket"
+  }
+]

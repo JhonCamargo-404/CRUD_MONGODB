@@ -1,0 +1,92 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h1 class="text-center mb-4">Catálogo de Motos</h1>
+
+<!-- Filtros dinámicos y botones -->
+<div class="container mb-4">
+    <form method="get" action="{{ url_for('index') }}">
+        <div class="d-flex justify-content-between align-items-center">
+            <!-- Filtros -->
+            <div class="d-flex gap-3">
+                <!-- Filtro de Marca -->
+                <div class="dropdown">
+                    <button 
+                        class="btn btn-secondary dropdown-toggle" 
+                        type="button" 
+                        id="makes-dropdown" 
+                        data-bs-toggle="dropdown" 
+                        aria-expanded="false">
+                        Seleccionar Marcas
+                    </button>
+                    <ul class="dropdown-menu" aria-labelledby="makes-dropdown" id="makes-list">
+                        {% for make in makes %}
+                        <li>
+                            <div class="form-check">
+                                <input 
+                                    class="form-check-input" 
+                                    type="checkbox" 
+                                    value="{{ make }}" 
+                                    id="make-{{ loop.index }}" 
+                                    name="makes" 
+                                    {% if make in selected_makes %}checked{% endif %}>
+                                <label class="form-check-label" for="make-{{ loop.index }}">{{ make }}</label>
+                            </div>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Botones -->
+            <div class="d-flex gap-2">
+                <button type="submit" class="btn btn-primary">Aplicar filtros</button>
+                <a href="{{ url_for('index') }}" class="btn btn-secondary">Limpiar filtros</a>
+                <a href="{{ url_for('add_moto') }}" class="btn btn-success">Crear Nueva Moto</a>
+            </div>
+        </div>
+    </form>
+</div>
+
+<!-- Distribución de motos -->
+<div class="row row-cols-1 row-cols-md-5 g-4">
+    {% for moto in motos %}
+    <div class="col">
+        <div class="card h-100">
+            <!-- Imagen de la moto -->
+            <img src="{{ moto.picture or '/static/images/default-moto.jpg' }}" 
+                 class="card-img-top" 
+                 alt="{{ moto.make }} {{ moto.model }}" 
+                 style="height: 150px; object-fit: cover;">
+            <!-- Datos -->
+            <div class="card-body">
+                <h5 class="card-title">{{ moto.make }} {{ moto.model }}</h5>
+                <p class="card-text">
+                    <strong>Año:</strong> {{ moto.year }}<br>
+                    <strong>Precio:</strong> {{ moto.price }}<br>
+                    <strong>Color:</strong> {{ moto.color }}<br>
+                    <strong>Estado:</strong> {{ moto.status }}
+                </p>
+            </div>
+            <!-- Botones para cada moto -->
+            <div class="card-footer text-center">
+                <a href="{{ url_for('view_moto', object_id=moto._id) }}" class="btn btn-info btn-sm">Ver</a>
+                <a href="{{ url_for('edit_moto', object_id=moto._id) }}" class="btn btn-warning btn-sm">Editar</a>
+                <a href="{{ url_for('delete_moto', object_id=moto._id) }}" class="btn btn-danger btn-sm">Eliminar</a>
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+
+<!-- Paginación -->
+<nav aria-label="Paginación">
+    <ul class="pagination pagination-lg justify-content-center mt-4">
+        {% for p in range(1, total_pages + 1) %}
+        <li class="page-item {% if p == page %}active{% endif %}">
+            <a class="page-link" href="{{ url_for('index', page=p, makes=selected_makes) }}">{{ p }}</a>
+        </li>
+        {% endfor %}
+    </ul>
+</nav>
+{% endblock %}

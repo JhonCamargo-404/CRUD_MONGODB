@@ -1,0 +1,42 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h1 class="text-center mb-4">Detalles de la Moto</h1>
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <!-- Tarjeta de detalles -->
+            <div class="card">
+                <!-- Imagen de la moto -->
+                <img src="{{ moto.picture or '/static/images/default-moto.jpg' }}" 
+                     class="card-img-top" 
+                     alt="{{ moto.make }} {{ moto.model }}" 
+                     style="height: 300px; object-fit: cover;">
+                <!-- Cuerpo de la tarjeta -->
+                <div class="card-body">
+                    <h5 class="card-title text-center">{{ moto.make }} {{ moto.model }}</h5>
+                    <ul class="list-group list-group-flush">
+                        <li class="list-group-item"><strong>Año:</strong> {{ moto.year }}</li>
+                        <li class="list-group-item"><strong>Precio:</strong> {{ moto.price }}</li>
+                        <li class="list-group-item"><strong>Color:</strong> {{ moto.color }}</li>
+                        <li class="list-group-item"><strong>Tipo de motor:</strong> {{ moto.engineType }}</li>
+                        <li class="list-group-item"><strong>Desplazamiento:</strong> {{ moto.displacement }}</li>
+                        <li class="list-group-item"><strong>Transmisión:</strong> {{ moto.transmission }}</li>
+                        <li class="list-group-item"><strong>Estado:</strong> {{ moto.status }}</li>
+                        <li class="list-group-item"><strong>Concesionario:</strong> {{ moto.dealership }}</li>
+                        <li class="list-group-item"><strong>Dirección:</strong> {{ moto.address }}</li>
+                        <li class="list-group-item"><strong>Fecha de registro:</strong> {{ moto.registrationDate }}</li>
+                        <li class="list-group-item"><strong>Latitud:</strong> {{ moto.latitude }}</li>
+                        <li class="list-group-item"><strong>Longitud:</strong> {{ moto.longitude }}</li>
+                    </ul>
+                </div>
+                <!-- Pie de la tarjeta -->
+                <div class="card-footer text-center">
+                    <a href="{{ url_for('index') }}" class="btn btn-secondary">Volver al catálogo</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
