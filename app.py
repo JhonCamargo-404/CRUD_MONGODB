@@ -4,7 +4,7 @@ from bson.objectid import ObjectId
 
 app = Flask(__name__)
 
-client = MongoClient("mongodb+srv://jhonc:rA4s3iE1IdVCV8se@motosdb.oa6sa.mongodb.net/?retryWrites=true&w=majority&appName=motosDB")
+client = MongoClient("mongodb+srv://jhonc:1234@cluster0.o5ubd.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 db = client['motosDB']
 motos_collection = db['motos']
 
